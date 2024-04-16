@@ -8,4 +8,4 @@ See the [task group's charter](https://www.tdwg.org/community/dwc/sensitive-spec
 
 For more background to the Task Group and to view the outcomes of the _Restricted Access species Workshop_ held at TDWG 2023. See the [workshop report](https://github.com/tdwg/sensitive-species-extension/blob/main/RASD_TDWG_Workshop_Report_V2.docx)
 
-To get involved email the convenor, [Cam Slatyer](mailto:Cam.slatyer@csiro.au), or [Tania Laity](mailto:tania.laity@csiro.au).
+To get involved email the convenor, [Cam Slatyer](mailto:Cam.slatyer@csiro.au), or [Tania Laity](mailto:tania.laity@csiro.au) or join our mailing list https://lists.tdwg.org/mailman/listinfo/dwc-sensitive-species
