@@ -1,4 +1,6 @@
-# Aims
+# Restricted Access Species Data Workshop Report
+
+## Aims
 
 There have been a lot of publications over the last 20 years which a
 focus on what we should be doing in this space and the need for
@@ -20,7 +22,7 @@ The aims of the workshop were:
     tabled with international conservation organisations and agencies as
     a global approach.
 
-# Introduction / Background
+## Introduction / Background
 
 The growth of biodiversity data aggregators and citizen science projects
 over the past two decades has led to an exponential expansion in the
@@ -51,7 +53,7 @@ and in Australia the development of a standardised [national framework
 for the Sharing of Restricted access species data in
 Australia](rasd.org.au).
 
-## The Australian Experience (Cam Slatyer, ALA)
+### The Australian Experience (Cam Slatyer, ALA)
 
 Australia is symptomatic of the many issues and restricted access data.
 Australia has three tiers of government comprising hundreds of local
@@ -130,7 +132,7 @@ sensitive species. Not all threatened species are sensitive and not all
 sensitive species are listed as threatened. It depends on the reason for
 the sensitivity of the data.
 
-## GBIF – International Approach (Andrew Rodrigues, GBIF)
+### GBIF – International Approach (Andrew Rodrigues, GBIF)
 
 After concerns being raised that GBIF may be making potentially
 sensitive data publicly available, a report was commissioned to
@@ -261,7 +263,7 @@ The key takeaway points from this review are:
   - The Darwin core terms are not being used consistently across
     different taxa and across different publishers.
 
-## Operationalising RASD Management – an Australian Example (Piers Higgs, Gaia Resources)
+### Operationalising RASD Management – an Australian Example (Piers Higgs, Gaia Resources)
 
 A solution to part of the problem of handling sensitive species data is
 the [RASD Service](https://service.rasd.org.au/#/) that is now up and
@@ -311,7 +313,7 @@ The purpose of the RASD Service is about firstly making the RASD
 findable, and then facilitating making it accessible to a broader
 audience.
 
-# Discussion / suggestions
+## Discussion / suggestions
 
 Generalisation vs Randomisation
 
@@ -412,7 +414,7 @@ Internal use of standard or for aggregators only?
 > Eg records subject to legal cases that can’t be released to
 > aggregators at all until after the court case is resolved.
 
-# Recommendations
+## Recommendations
 
 DWC working group to work towards ratifying sensitive species extension
 
@@ -429,6 +431,6 @@ establish a global interest group to do this perhaps in partnership with
 relevant international organisations such as IUCN and CITES amongst
 others
 
-# Next Steps
+## Next Steps
 
 Speak with TDWG Executive about establishing a TDWG working group
