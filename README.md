@@ -15,3 +15,7 @@ To get involved email the convenor, [Cam Slatyer](mailto:Cam.slatyer@csiro.au), 
 Chapman AD (2006). Questionnaire on Dealing with Sensitive Primary Species Occurrence Data − Summary of responses. 56 pp. Copenhagen: GBIF. https://doi.org/10.35035/vs84-0p13.
 
 Chapman AD (2007). Dealing with Sensitive Primary Species Occurrence Data. Report. Report to the Global Biodiversity Information Facility 60pp. https://doi.org/10.35035/rajc-t668
+
+# Scheduling for First Meeting - September 2024
+
+For all those interested in attending the first meeting of the task group - please fill out your preferences in the doodle poll - https://doodle.com/meeting/participate/id/bo638mNa
