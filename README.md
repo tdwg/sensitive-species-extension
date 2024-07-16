@@ -18,4 +18,4 @@ Chapman AD (2007). Dealing with Sensitive Primary Species Occurrence Data. Repor
 
 # Scheduling for First Meeting - September 2024
 
-For all those interested in attending the first meeting of the task group - please fill out your preferences in the doodle poll - https://doodle.com/meeting/participate/id/bo638mNa
+For all those interested in attending the first meeting of the task group - please fill out your preferences in the doodle poll - [https://doodle.com/meeting/participate/id/bo638mNa](https://doodle.com/meeting/participate/id/aQ5ogqYa)
