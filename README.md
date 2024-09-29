@@ -16,6 +16,12 @@ Chapman AD (2006). Questionnaire on Dealing with Sensitive Primary Species Occur
 
 Chapman AD (2007). Dealing with Sensitive Primary Species Occurrence Data. Report. Report to the Global Biodiversity Information Facility 60pp. https://doi.org/10.35035/rajc-t668
 
-# Scheduling for First Meeting - September 2024
+# Meeting Minutes - September 2024
 
-For all those interested in attending the first meeting of the task group - please fill out your preferences in the doodle poll - https://doodle.com/meeting/participate/id/aQ5ogqYa
+[TDWG_SensitiveDataTG_Sept2024.pptx](https://github.com/user-attachments/files/17181633/TDWG_SensitiveDataTG_Sept2024.pptx)
+
+https://github.com/user-attachments/assets/8ad12654-1765-4144-af05-1974d7046e8c
+
+[GR286 TDWG Sensitive Species Task Group 20240927.docx](https://github.com/user-attachments/files/17181687/GR286.TDWG.Sensitive.Species.Task.Group.20240927.docx)
+
+
