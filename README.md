@@ -27,5 +27,7 @@ https://github.com/user-attachments/assets/8ad12654-1765-4144-af05-1974d7046e8c
 # Working List of Terms
 [https://github.com/tdwg/sensitive-species-extension/blob/main/sensitiveSppExt_terms.ods]
 
+# Annual Report to TDWG Executive November 2024
+[https://docs.google.com/document/d/1phC7H3ObB1om01FnbLnhiqiwn8JMGfpVsNSpJ3u8TVE/edit?usp=sharing]
 
 
