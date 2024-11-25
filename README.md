@@ -22,7 +22,11 @@ Chapman AD (2007). Dealing with Sensitive Primary Species Occurrence Data. Repor
 
 https://github.com/user-attachments/assets/8ad12654-1765-4144-af05-1974d7046e8c
 
-[GR286 TDWG Sensitive Species Task Group 20240927.docx](https://github.com/tdwg/sensitive-species-extension/blob/main/GR286.TDWG.Sensitive.Species.Task.Group.20240927.docx)
+[TDWG Sensitive Species Task Group - September 2024 Meeting Minutes](https://github.com/tdwg/sensitive-species-extension/blob/main/GR286.TDWG.Sensitive.Species.Task.Group.20240927.docx)
+
+# Meeting Minutes - November 2024
+
+[TDWG Sensitive Species Task Group - November 2024 Meeting Minutes](https://github.com/tdwg/sensitive-species-extension/blob/main/GR286%20TDWG%20Sensitive%20Species%20Task%20Group%2020241121.docx)
 
 # Working List of Terms
 [https://github.com/tdwg/sensitive-species-extension/blob/main/sensitiveSppExt_terms.ods]
