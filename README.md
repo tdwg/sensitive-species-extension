@@ -28,6 +28,8 @@ https://github.com/user-attachments/assets/8ad12654-1765-4144-af05-1974d7046e8c
 
 [TDWG Sensitive Species Task Group - November 2024 Meeting Minutes](https://github.com/tdwg/sensitive-species-extension/blob/main/GR286%20TDWG%20Sensitive%20Species%20Task%20Group%2020241121.docx)
 
+[TDWG Sensitive Species Task Group - November 2024 Recording](https://drive.google.com/file/d/1ovrr6FLJYIqa8803yQIE5eKzHuwCzYch/view?usp=sharing)
+
 # Working List of Terms
 [https://github.com/tdwg/sensitive-species-extension/blob/main/sensitiveSppExt_terms.ods]
 
