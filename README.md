@@ -16,6 +16,10 @@ Chapman AD (2006). Questionnaire on Dealing with Sensitive Primary Species Occur
 
 Chapman AD (2007). Dealing with Sensitive Primary Species Occurrence Data. Report. Report to the Global Biodiversity Information Facility 60pp. https://doi.org/10.35035/rajc-t668
 
+Chapman, Arthur. (2008). The issues with Sensitive Data: managing access, issues of data quality, and data ownership. https://www.researchgate.net/publication/333207636_The_issues_with_Sensitive_Data_managing_access_issues_of_data_quality_and_data_ownership
+
+Chapman, Arthur. (2007). Dealing with Sensitive Primary Species Occurrence Data: Report. 10.35035/rajc-t668. https://www.researchgate.net/publication/333161661_Dealing_with_Sensitive_Primary_Species_Occurrence_Data_Report
+
 # Meeting Minutes - September 2024
 
 [TDWG_SensitiveDataTG_Sept2024.pptx](https://github.com/tdwg/sensitive-species-extension/blob/main/TDWG_SensitiveDataTG_Sept2024.pptx)
