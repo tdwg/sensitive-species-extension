@@ -40,6 +40,10 @@ https://github.com/user-attachments/assets/8ad12654-1765-4144-af05-1974d7046e8c
 
 [TDWG Sensitive Species Task Group - December 2024 Recording](https://drive.google.com/file/d/1mOeYJ0WsjISJLYJNVgKdqkI9UTfA6fjs/view?usp=drive_link)
 
+# Sensitivity Reason and Treatment Vocabularies
+[Version 1 Dec 2024] (https://github.com/tdwg/sensitive-species-extension/blob/main/SensitivityTreatmentsReasons_V1_Dec2024.docx)
+[Version 2 Jan 2025 (incorporating feedback from Dec 2024 Task Group Meeting)] (https://github.com/tdwg/sensitive-species-extension/blob/main/SenitivityReasonsTreatments_V2_Jan2025.docx)
+
 # Working List of Terms
 [https://github.com/tdwg/sensitive-species-extension/blob/main/sensitiveSppExt_terms.ods]
 
