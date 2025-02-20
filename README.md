@@ -18,6 +18,10 @@ Chapman AD (2007). Dealing with Sensitive Primary Species Occurrence Data. Repor
 
 Chapman, Arthur. (2008). The issues with Sensitive Data: managing access, issues of data quality, and data ownership. https://www.researchgate.net/publication/333207636_The_issues_with_Sensitive_Data_managing_access_issues_of_data_quality_and_data_ownership
 
+Ryan, G. E., Nicholson, E., Baker, C. M., & McCarthy, M. A. (2024). The costs and benefits of publicising species discoveries. Conservation Letters, 17, e13044. https://doi.org/10.1111/conl.13044
+
+Rubel, A., Kaehrle, M. & Streiffer, R. Digital Platforms, Privacy, and the Ethics of Wildlife Information Sharing. Philos. Technol. 38, 22 (2025). https://doi.org/10.1007/s13347-025-00841-4
+
 # Meeting Minutes - September 2024
 
 [TDWG_SensitiveDataTG_Sept2024.pptx](https://github.com/tdwg/sensitive-species-extension/blob/main/TDWG_SensitiveDataTG_Sept2024.pptx)
