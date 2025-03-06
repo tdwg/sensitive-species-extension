@@ -44,7 +44,7 @@ https://github.com/user-attachments/assets/8ad12654-1765-4144-af05-1974d7046e8c
 
 # Meeting Minutes - March 2025
 
-[TDWG Sensitive Species Task Group - March 2025 Meeting Minutes](https://github.com/tdwg/sensitive-species-extension/blob/main/GR286%20TDWG%20Sensitive%20Species%20Task%20Group%2020241219.docx)
+[TDWG Sensitive Species Task Group - March 2025 Meeting Minutes](https://github.com/tdwg/sensitive-species-extension/blob/main/GR286%20TDWG%20Sensitive%20Species%20Group%2020240503.docx)
 
 [TDWG Sensitive Species Task Group - March 2025 Recording](https://drive.google.com/file/d/1DXthZg53u-_fPSgBnfmVpebWwwGcH2tZ/view?usp=drive_link)
 
