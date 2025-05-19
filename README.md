@@ -53,6 +53,8 @@ https://github.com/user-attachments/assets/8ad12654-1765-4144-af05-1974d7046e8c
 
 [Version 2 Jan 2025 (incorporating feedback from Dec 2024 Task Group Meeting)](https://github.com/tdwg/sensitive-species-extension/blob/main/SenitivityReasonsTreatments_V2_Jan2025.docx)
 
+[Version 4.5 May 2025 (incorporating feedback and refined use cases from March 2025 Task Group Meeting)](https://github.com/tdwg/sensitive-species-extension/blob/main/SenitivityReasonsTreatments_V4.5_May2025.docx)
+
 # Working List of Terms
 [https://github.com/tdwg/sensitive-species-extension/blob/main/sensitiveSppExt_terms.ods]
 
