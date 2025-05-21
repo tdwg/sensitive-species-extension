@@ -51,6 +51,10 @@ https://github.com/user-attachments/assets/8ad12654-1765-4144-af05-1974d7046e8c
 # TDWG Working Sessions - April 2025
 [Sensitive Species Data Extension Task Group Recording](https://www.youtube.com/watch?v=uXYNYjGfMLI)
 
+# Meeting Minutes - March 2025
+
+[TDWG Sensitive Species Task Group - May 2025 Recording](https://drive.google.com/file/d/1MQg-zZe36F0D6v4zcIQC7fbhisrKq2Lk/view?usp=drive_link)
+
 # Sensitivity Reason and Treatment Vocabularies
 [Version 1 Dec 2024](https://github.com/tdwg/sensitive-species-extension/blob/main/SensitivityTreatmentsReasons_V1_Dec2024.docx)
 
