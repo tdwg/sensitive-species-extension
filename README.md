@@ -63,6 +63,15 @@ https://github.com/user-attachments/assets/8ad12654-1765-4144-af05-1974d7046e8c
 
 [TDWG Sensitive Species Task Group - July 2025 Recording](https://drive.google.com/file/d/1yEWPdetoYBpL-rTSnlkVeIb8y3qmGUF4/view?usp=drive_link)
 
+# Meeting Minutes - September 2025
+
+[TDWG Sensitive Species Task Group - September 2025 Meeting Minutes](https://github.com/tdwg/sensitive-species-extension/blob/main/GR286%20TDWG%20Sensitive%20Species%20Group%2020250924%20(1).docx)
+
+[TDWG Sensitive Species Task Group - September 2025 Recording](https://drive.google.com/file/d/1G_mH8KVgPNfuCPE_rfGE5zZ_jN4ZEfWm/view?usp=drive_link)
+
+[Mapping Vocabs to DwC / DwC-DP Presentation](https://github.com/tdwg/sensitive-species-extension/blob/main/RASD%2020250924.pptx)
+
+[Draft RASD Vocab](https://github.com/tdwg/sensitive-species-extension/blob/main/RASD_vocabulary_v0.1.ttl)
 
 # Sensitivity Reason and Treatment Vocabularies
 [Version 1 Dec 2024](https://github.com/tdwg/sensitive-species-extension/blob/main/SensitivityTreatmentsReasons_V1_Dec2024.docx)
