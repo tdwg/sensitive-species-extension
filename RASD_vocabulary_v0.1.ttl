@@ -1,0 +1,528 @@
+PREFIX : <http://rs.gbif.org/vocabulary/dwc/rasd/>
+PREFIX cs: <http://rs.gbif.org/vocabulary/dwc/rasd>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX schema: <https://schema.org/>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+cs:
+    a skos:ConceptScheme ;
+    owl:versionIRI :0.1 ;
+    skos:definition "Sensitive data may need to be restricted from certain audiences. The application of Restricted Access Species Data includes the reason/s for why accesss to components of biodiversity data have been restricted by an agent and the treatment protocol that have been applied to the data to implement the restriction."@en ;
+    skos:hasTopConcept
+        <http://rs.gbif.org/vocabulary/dwc/rasd/reason/rasdReason> ,
+        <http://rs.gbif.org/vocabulary/dwc/rasd/reason/rasdTreatment> ;
+    skos:historyNote "This vocabulary has been created by the TDWG Restricted Access Species Data Task Group for use with Darwin Core and the Darwin Core Data Package"@en ;
+    skos:prefLabel "Restricted Access Species Data"@en ;
+    schema:creator
+        [
+            a schema:Organization ;
+            schema:name "Tdwg Restricted Access Species Data Task Group" ;
+            schema:url ""^^xsd:anyURI ;
+        ] ;
+    schema:dateCreated "2025-07-25"^^xsd:date ;
+    schema:dateModified "2025-08-05"^^xsd:date ;
+    schema:publisher <https://www.gbif.org/> ;
+    schema:version "0.1" ;
+.
+
+<https://www.gbif.org/>
+    a schema:Organization ;
+    schema:name "Global Biodiversity Information Facility" ;
+    schema:url "https://www.gbif.org/"^^xsd:anyURI ;
+.
+
+<http://rs.gbif.org/vocabulary/dwc/rasd/reason/rasdReason>
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:definition "A reason for applying restrictions to the data."@en ;
+    skos:inScheme cs: ;
+    skos:narrower
+        <http://rs.gbif.org/vocabulary/dwc/rasd/reason/biosecurity> ,
+        <http://rs.gbif.org/vocabulary/dwc/rasd/reason/deficiencyOfInformationOrResources> ,
+        <http://rs.gbif.org/vocabulary/dwc/rasd/reason/firstNationsCulturalSignificance> ,
+        <http://rs.gbif.org/vocabulary/dwc/rasd/reason/personalInformation> ,
+        <http://rs.gbif.org/vocabulary/dwc/rasd/reason/speciesAttributes> ,
+        <http://rs.gbif.org/vocabulary/dwc/rasd/reason/speciesLocation> ,
+        <http://rs.gbif.org/vocabulary/dwc/rasd/reason/usageRestrictions> ;
+    skos:prefLabel "restriction reason"@en ;
+    skos:topConceptOf cs: ;
+.
+
+<http://rs.gbif.org/vocabulary/dwc/rasd/reason/personalInformation>
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:altLabel "1"@en ;
+    skos:broader <http://rs.gbif.org/vocabulary/dwc/rasd/reason/rasdReason> ;
+    skos:definition "The presence of personal data - information, names or addresses compromise the privacy of individuals."@en ;
+    skos:inScheme cs: ;
+    skos:narrower
+        <http://rs.gbif.org/vocabulary/dwc/rasd/reason/lackOfConsent> ,
+        <http://rs.gbif.org/vocabulary/dwc/rasd/reason/requestForPrivacy> ;
+    skos:prefLabel "personal information privacy"@en ;
+.
+
+<http://rs.gbif.org/vocabulary/dwc/rasd/reason/lackOfConsent>
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:altLabel "1.1"@en ;
+    skos:broader <http://rs.gbif.org/vocabulary/dwc/rasd/reason/personalInformation> ;
+    skos:definition "Names may enable personal information to be re-identified without permission. This can apply to either legacy datasets / records where it is no longer possible or too onerous to contact participants and there is therefore uncertain over sharing permissions. For exampel a dataset has observation records with the full names of collectors, observers or identifiers and there is no record of whether the individuals have given their permission for this to be included. The names or identifiers are withheld to protect the privacy of individuals. Note, this is different to withholding collector name to hide a trip itinerary so that restricted access records cannot be located using unrestricted specimens."@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "lack of consent"@en ;
+.
+
+<http://rs.gbif.org/vocabulary/dwc/rasd/reason/requestForPrivacy>
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:altLabel "1.2"@en ;
+    skos:broader <http://rs.gbif.org/vocabulary/dwc/rasd/reason/personalInformation> ;
+    skos:definition "Release of species records may result in a violation of privacy or reputational risk where the owner or manager of the property has requested the generalisation or withholding of records. Examples include: a landholder is concerned that records of pest and weed species on their land will attract the criticism of neighbours; a record of a species which is desirable to collectors results in an influx of observers to a private property impinging on the landholder’s personal privacy."@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "request for privacy"@en ;
+.
+
+<http://rs.gbif.org/vocabulary/dwc/rasd/reason/speciesLocation>
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:altLabel "2"@en ;
+    skos:broader <http://rs.gbif.org/vocabulary/dwc/rasd/reason/rasdReason> ;
+    skos:definition "Information about the location or habitat of a species places that species at risk if data is not either withheld or generalised."@en ;
+    skos:inScheme cs: ;
+    skos:narrower
+        <http://rs.gbif.org/vocabulary/dwc/rasd/reason/crypticLocations> ,
+        <http://rs.gbif.org/vocabulary/dwc/rasd/reason/exposureViaContextualAttribute> ,
+        <http://rs.gbif.org/vocabulary/dwc/rasd/reason/exposureViaSurveyInformation> ,
+        <http://rs.gbif.org/vocabulary/dwc/rasd/reason/highlyRestrictedSpecies> ,
+        <http://rs.gbif.org/vocabulary/dwc/rasd/reason/potentialHarmToPeopleOrProperty> ,
+        <http://rs.gbif.org/vocabulary/dwc/rasd/reason/threatenedPopulations> ;
+    skos:prefLabel "sensitive location"@en ;
+.
+
+<http://rs.gbif.org/vocabulary/dwc/rasd/reason/highlyRestrictedSpecies>
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:altLabel "2.1"@en ;
+    skos:broader <http://rs.gbif.org/vocabulary/dwc/rasd/reason/speciesLocation> ;
+    skos:definition "Species with a highly restricted spatial distribution where knowledge of a locality or occurrence potentially poses a risk of disturbance to an entire species for assessed, documented reasons such as poaching, disease or habitat fragility. Records are withheld. Should be considered in association with SensitivityReasonID 4.1. Examples are: A newly described, highly endemic gecko species, restricted to a single cave system that belongs to a genus that is frequently targeted for poaching. Knowledge of latitude or longitude or the cave name makes the species easy to target and disturbance represents a threat to the entire species; A fossil locality where specimens are only available from a single site and the site needs to be protected from black market fossil collectors or simply vandalism."@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "highly restricted species"@en ;
+.
+
+<http://rs.gbif.org/vocabulary/dwc/rasd/reason/threatenedPopulations>
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:altLabel "2.2"@en ;
+    skos:broader <http://rs.gbif.org/vocabulary/dwc/rasd/reason/speciesLocation> ;
+    skos:definition "Species with restricted spatial distribution and with life history attributes poses a high risk of disturbance where released. All records should be generalised at a coarse scale. Should be considered in association with reasonID 4.1, particularly where 4.1 can be used as an alternative to generalising or withholding all records. Examples are: A species of orchid has a discontinuous distribution on scattered sphagnum bogs. The species is rare but not endemic, but its habitat is fragile. Generalisation of records reduces the risk of poaching and habitat disturbance; A species of crayfish is threatened by illegal fishing. The species was formerly widespread but remaining locations are difficult to access and find, so generalisation and withholding of coordinates will be effective."@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "threatened populations"@en ;
+.
+
+<http://rs.gbif.org/vocabulary/dwc/rasd/reason/crypticLocations>
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:altLabel "2.3"@en ;
+    skos:broader <http://rs.gbif.org/vocabulary/dwc/rasd/reason/speciesLocation> ;
+    skos:definition "Species with broad spatial distribution across the landscape but with specific life history attributes increases risks to populations of the species. Fine scale generalisation is sufficient to protect these traits. Should be considered in association with RASDReasonID 4.1, particularly where 4.1 can be used as an alternative to generalising or withholding all records. Examples are: Colonies of a widespread penguin species, where burrows are not obvious and release of locations increase the risk of trampling; records of a widespread dwarf cactus species that is sensitive to poaching but difficult to find, and release of precise locations would make targeting of individuals easier"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "cryptic locations"@en ;
+.
+
+<http://rs.gbif.org/vocabulary/dwc/rasd/reason/exposureViaSurveyInformation>
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:altLabel "2.4"@en ;
+    skos:broader <http://rs.gbif.org/vocabulary/dwc/rasd/reason/speciesLocation> ;
+    skos:definition "Records of a species that have been assessed as restricted access species were collected as part of a systematic survey or collecting trip. Survey information may exposer localities of at risk species. Examples include: A regional flora survey has been undertaken in an arid area. Species records are associated with plot IDs. Restricted access species records have been generalised but they risk being exposed by the PlotID information. A decision needs to be made whether to withhold the restricted access species records or withhold the PlotID information for plots including restricted access species; A plant collector or botanist undertook a field trip in 2015 collecting specimens belonging to a particular plant family. Some of the species are restricted access species. Because the specimens have a continuous collector’s number sequence, it is possible to identify the location of the restricted access species. Records of all specimens from a particular locality need to be withheld or generalised; A multi-year ecological monitoring program where temporal standardised data is collected. The site locations are therefore restricted because they can be used for biased treatment of sites (consciously or unconsciously), either protecting them from potential changes or expose to harm / disturbance, which can result in biased estimates using survey data."@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "exposure via survey information"@en ;
+.
+
+<http://rs.gbif.org/vocabulary/dwc/rasd/reason/exposureViaContextualAttribute>
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:altLabel "2.5"@en ;
+    skos:broader <http://rs.gbif.org/vocabulary/dwc/rasd/reason/speciesLocation> ;
+    skos:definition "Species that have been assessed as restricted access species have associations with other species. Such associations may enable individuals of a species to be identified and place them at risk. Examples include: An endemic butterfly species has a commensal relationship with a food plant. The food plant is widespread, but the butterfly is highly restricted. Records of the non-restricted access food plant need to be withheld or generalised within the range / distribution of the butterfly."@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "exposure via contextual attribute"@en ;
+.
+
+<http://rs.gbif.org/vocabulary/dwc/rasd/reason/potentialHarmToPeopleOrProperty>
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:altLabel "2.6"@en ;
+    skos:broader <http://rs.gbif.org/vocabulary/dwc/rasd/reason/speciesLocation> ;
+    skos:definition "Release of records where the precise location represents a risk to observers or property. Examples include: There is a dataset covering records from a Defence Training Area including species that are popular for photographs. A decision to manage records reduces the risk to the public from the risks of trespass including unexploded ordinance or live firing; There is a dataset of feral animals that is being used by hunters to illegally enter private property and shoot posing a threat to landholders; Deathcap mushrooms (Amantia spp.) are poisonous to humans and are sometimes collected deliberately. Generalising records reduces the public risk of records of this type; Restrictions on records of a photogenic species because public records result in damage to habitat or crops because of members of the public trying to obtain photos or records of the species."@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "potential harm to people or property"@en ;
+.
+
+<http://rs.gbif.org/vocabulary/dwc/rasd/reason/deficiencyOfInformationOrResources>
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:altLabel "2.7"@en ;
+    skos:broader <http://rs.gbif.org/vocabulary/dwc/rasd/reason/rasdReason> ;
+    skos:definition "This category is to be used where agencies lack sufficient resource or information to enable species by species assessment of sensitivity. It is therefore easier to assign a treatment on all species within a higher taxonomic group. It is strongly recommended that this is not to be used as a justification for withholding records generally. Examples include: An agency has a large number of orchid species occurring within its lands. The species are known to be attractive to plant collectors and there are historical records of poaching. The agency takes the decision to generalise all orchid records."@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "deficiency of information or resources"@en ;
+.
+
+<http://rs.gbif.org/vocabulary/dwc/rasd/reason/biosecurity>
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:altLabel "3"@en ;
+    skos:broader <http://rs.gbif.org/vocabulary/dwc/rasd/reason/rasdReason> ;
+    skos:definition "Information about biosecurity risk species may have negative implications."@en ;
+    skos:inScheme cs: ;
+    skos:narrower
+        <http://rs.gbif.org/vocabulary/dwc/rasd/reason/invasiveSpecies> ,
+        <http://rs.gbif.org/vocabulary/dwc/rasd/reason/tradeSensitive> ;
+    skos:prefLabel "biosecurity risk"@en ;
+.
+
+<http://rs.gbif.org/vocabulary/dwc/rasd/reason/tradeSensitive>
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:altLabel "3.1"@en ;
+    skos:broader <http://rs.gbif.org/vocabulary/dwc/rasd/reason/biosecurity> ;
+    skos:definition "Species that don’t occur in a country e.g. a species of pinhole borer is detected at a port. The species is widespread overseas and many countries erect timber import restrictions based on the presence of the species. The borer infestation is eradicated and specimens are sent to the local museum, which serves specimen records publicly. The records should be withheld as they might be used to incorrectly suggest that the borer is present in this country."@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "trade sensitive species"@en ;
+.
+
+<http://rs.gbif.org/vocabulary/dwc/rasd/reason/invasiveSpecies>
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:altLabel "3.2"@en ;
+    skos:broader <http://rs.gbif.org/vocabulary/dwc/rasd/reason/biosecurity> ;
+    skos:definition "Species that are actively being eradicated e.g. A weed species is at an early stage of incursion. The incursion is featuring in media and has become politicised. In an attempt to encourage landholders to report the weed, confidentiality of records has been guaranteed until the weed is eradicated."@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "invasive species"@en ;
+.
+
+<http://rs.gbif.org/vocabulary/dwc/rasd/reason/speciesAttributes>
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:altLabel "4"@en ;
+    skos:broader <http://rs.gbif.org/vocabulary/dwc/rasd/reason/rasdReason> ;
+    skos:definition "Information about species attributes is perceived to be restricted access."@en ;
+    skos:inScheme cs: ;
+    skos:narrower
+        <http://rs.gbif.org/vocabulary/dwc/rasd/reason/physicalAttributes> ,
+        <http://rs.gbif.org/vocabulary/dwc/rasd/reason/taxonomicUncertainty> ;
+    skos:prefLabel "sensitive species attributes"@en ;
+.
+
+<http://rs.gbif.org/vocabulary/dwc/rasd/reason/physicalAttributes>
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:altLabel "4.1"@en ;
+    skos:broader <http://rs.gbif.org/vocabulary/dwc/rasd/reason/speciesAttributes> ;
+    skos:definition "Instances where records of a species are generally not restricted access but a particular life history attribute or descriptor is. Only records of the species containing this attribute information or the attribute itself need to be generalised or withheld. Examples include: There is a reference to breeding behaviour in the notes attribute.  The notes field should be withheld to protect breeding habitat; withholding stratigraphic unit or geological formation names to protect fossil sites; Withholding attributes such as the name of a unique land feature such as a bog or a cave because it is the only place that a restricted access species occurs (as opposed to withholding the species records as per RASDReasonID 2.1)."@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "physical attributes"@en ;
+.
+
+<http://rs.gbif.org/vocabulary/dwc/rasd/reason/taxonomicUncertainty>
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:altLabel "4.2"@en ;
+    skos:broader <http://rs.gbif.org/vocabulary/dwc/rasd/reason/speciesAttributes> ;
+    skos:definition """Where a restricted access species has not been taxonomically described or recently described, leading to difficulty in reconciling observation records to taxonomic backbones.  Examples include: all species of a spider genus are restricted access because the genus includes undescribed species or is often only identified to genus, as a precaution, all records of the genus are generalised; 
+where a species is restricted access, but its subspecies are not, the subspecies should “inherit” the treatments to be applied to their parent taxon because records may not have been identified to the same taxonomic resolutions; and
+“taxon splits” where a restricted access species is split into several new species where the records cannot be reliably allocated to the restricted access species, all records of both split species are generalised as a precautionary measure."""@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "taxonomic uncertainty"@en ;
+.
+
+<http://rs.gbif.org/vocabulary/dwc/rasd/reason/usageRestrictions>
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:altLabel "5"@en ;
+    skos:broader <http://rs.gbif.org/vocabulary/dwc/rasd/reason/rasdReason> ;
+    skos:definition "Restricted access due to legal or non-legal usage restriction agreements."@en ;
+    skos:inScheme cs: ;
+    skos:narrower
+        <http://rs.gbif.org/vocabulary/dwc/rasd/reason/legalContract> ,
+        <http://rs.gbif.org/vocabulary/dwc/rasd/reason/nonLegal> ;
+    skos:prefLabel "usage-restrictions"@en ;
+.
+
+<http://rs.gbif.org/vocabulary/dwc/rasd/reason/legalContract>
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:altLabel "5.1"@en ;
+    skos:broader <http://rs.gbif.org/vocabulary/dwc/rasd/reason/usageRestrictions> ;
+    skos:definition "This includes a negotiated legal contract or a standard form data licence agreement that in effect is a legal contract limiting the transfer of the data to a third-party. Examples include: data gathered under a signed contract with a third-party contractor; data from a research project provided under legal or licence agreement that relates to control of third-party data use that limits who else the data can be shared with; and a company has access to data about endangered species in relation to a development they are involved with where third-party knowledge of that data (by competitors) might impact the economic viability of the project and the dataset is legally embargoed until a certain date after which time it can be publicly available."@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "legal contract"@en ;
+.
+
+<http://rs.gbif.org/vocabulary/dwc/rasd/reason/nonLegal>
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:altLabel "5.2"@en ;
+    skos:broader <http://rs.gbif.org/vocabulary/dwc/rasd/reason/usageRestrictions> ;
+    skos:definition "This covers non-legal concerns that may require a temporary embargo of records. Examples include: researchers involved in the development of new food crops need to withhold phenotype and monitoring records until after results are published to retain competitive commercial advantage; a researcher working on a PhD project has a significant number of observations about a new species, the researcher is happy to share the records but does not want the records to be made public until after the publication of their results; a researcher’s dataset where the location can be revealed but other fields such as measurements must be withheld. This dataset might be embargoed until a certain date."@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "non-legal reasons"@en ;
+.
+
+<http://rs.gbif.org/vocabulary/dwc/rasd/reason/firstNationsCulturalSignificance>
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:altLabel "6"@en ;
+    skos:broader <http://rs.gbif.org/vocabulary/dwc/rasd/reason/rasdReason> ;
+    skos:definition "Information that First Nations people consider to be restricted access"@en ;
+    skos:inScheme cs: ;
+    skos:narrower
+        <http://rs.gbif.org/vocabulary/dwc/rasd/reason/culturallySignificantLocation> ,
+        <http://rs.gbif.org/vocabulary/dwc/rasd/reason/culturallySignificantSpecies> ,
+        <http://rs.gbif.org/vocabulary/dwc/rasd/reason/culturallySignificantSpeciesInformation> ;
+    skos:prefLabel "first nations cultural significance"@en ;
+.
+
+<http://rs.gbif.org/vocabulary/dwc/rasd/reason/culturallySignificantSpecies>
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:altLabel "6.1"@en ;
+    skos:broader <http://rs.gbif.org/vocabulary/dwc/rasd/reason/firstNationsCulturalSignificance> ;
+    skos:definition "Instances where a species has importance for First Nations communities that make sharing a record inappropriate. Examples include: a First Nations community regards a species as a totem animal - while the species is widespread, the community have agreed that they do not wish records to be made public as it conflicts with community beliefs; First Nations rangers have gathered records on species in their reserve because the dataset belongs to community under CARE principles, the records can only be shared with community agreement."@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "culturally significant species"@en ;
+.
+
+<http://rs.gbif.org/vocabulary/dwc/rasd/reason/culturallySignificantSpeciesInformation>
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:altLabel "6.2"@en ;
+    skos:broader <http://rs.gbif.org/vocabulary/dwc/rasd/reason/firstNationsCulturalSignificance> ;
+    skos:definition "Relates to First Nations traditional knowledge about a species that is inappropriate to share without permission. Examples include: an herbarium specimen has field notes that include information gathered by the collector about how a First Nations community uses the plant for medicinal purposes, the information belongs to the community and should not be shared without community agreement; an endangered tree record mentions that the tree has an important ceremonial carving on it, that information should not be shared without first nations community agreement."@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "culturally significant species information"@en ;
+.
+
+<http://rs.gbif.org/vocabulary/dwc/rasd/reason/culturallySignificantLocation>
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:altLabel "6.3"@en ;
+    skos:broader <http://rs.gbif.org/vocabulary/dwc/rasd/reason/firstNationsCulturalSignificance> ;
+    skos:definition "Relates to species records that reveal information about First Nation sites. Examples include: species records that include information about an important ceremonial location that should not be shared outside the community; species records falling within the boundary of a Sacred Site that the First Nations community do not wish to share because (for example) it might lead to unwanted / inappropriate visitation."@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "culturally significant location"@en ;
+.
+
+<http://rs.gbif.org/vocabulary/dwc/rasd/reason/rasdTreatment>
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:definition "The treatment applied to the data to restrict access to information based on a reason."@en ;
+    skos:inScheme cs: ;
+    skos:narrower
+        <http://rs.gbif.org/vocabulary/dwc/rasd/treatment/generaliseAttributes> ,
+        <http://rs.gbif.org/vocabulary/dwc/rasd/treatment/obfuscateCoordinates> ,
+        <http://rs.gbif.org/vocabulary/dwc/rasd/treatment/withholdData> ;
+    skos:prefLabel "restriction treatment"@en ;
+    skos:topConceptOf cs: ;
+.
+
+<http://rs.gbif.org/vocabulary/dwc/rasd/treatment/obfuscateCoordinates>
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:altLabel "A"@en ;
+    skos:broader <http://rs.gbif.org/vocabulary/dwc/rasd/reason/rasdTreatment> ;
+    skos:definition "Coordinates are obfuscated by generalisation, randomisation or by using polygons"@en ;
+    skos:inScheme cs: ;
+    skos:narrower
+        <http://rs.gbif.org/vocabulary/dwc/rasd/treatment/coordinatesRandomisedWithinAPolygon> ,
+        <http://rs.gbif.org/vocabulary/dwc/rasd/treatment/coordinatesReplacedByCentroid> ,
+        <http://rs.gbif.org/vocabulary/dwc/rasd/treatment/coordinatesReplacedByGrid> ,
+        <http://rs.gbif.org/vocabulary/dwc/rasd/treatment/coordinatesTruncated> ;
+    skos:prefLabel "obfuscate coordinates"@en ;
+.
+
+<http://rs.gbif.org/vocabulary/dwc/rasd/treatment/coordinatesTruncated>
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:altLabel "A.1"@en ;
+    skos:broader <http://rs.gbif.org/vocabulary/dwc/rasd/treatment/obfuscateCoordinates> ;
+    skos:definition "Coordinates have the decimal places reduced – commonly this may include either zero, 1 or 2 decimal places.  Treatment descriptions for the record should state the degree to which the coordinates have been shortened (e.g. 1 decimal placed etc).  Examples include: Highly sensitive species such as a recently rediscovered species which has no specific habitat requirements and is nomadic so coarse generalisation is sufficient to protect the species; Species for which the release of precise locations would subject it to a risk of exploitation / disturbance."@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "coordinates truncated"@en ;
+.
+
+<http://rs.gbif.org/vocabulary/dwc/rasd/treatment/coordinatesReplacedByGrid>
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:altLabel "A.2"@en ;
+    skos:broader <http://rs.gbif.org/vocabulary/dwc/rasd/treatment/obfuscateCoordinates> ;
+    skos:definition "Treatment descriptions for the record should contain information about the standardised grid including its dimensions and origin for example: Record contains information regarding the management of species that the land manager considers mildly sensitive e.g. pest control on private property."@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "coordinates replaced by standardised grid"@en ;
+.
+
+<http://rs.gbif.org/vocabulary/dwc/rasd/treatment/coordinatesRandomisedWithinAPolygon>
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:altLabel "A.3"@en ;
+    skos:broader <http://rs.gbif.org/vocabulary/dwc/rasd/treatment/obfuscateCoordinates> ;
+    skos:definition "Records latitude and longitude are randomised within a defined polygon. The defined polygon and its proportions should be included in the treatment descriptions for the records.  Case study examples similar to the rest of the category. This is not generally a recommended method as it is not reversible. Applying this method will result in a different outcome each time the treatment is applied."@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "coordinates randomised within a polygon"@en ;
+.
+
+<http://rs.gbif.org/vocabulary/dwc/rasd/treatment/coordinatesReplacedByCentroid>
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:altLabel "A.4"@en ;
+    skos:broader <http://rs.gbif.org/vocabulary/dwc/rasd/treatment/obfuscateCoordinates> ;
+    skos:definition "This can include the centroid of a defined geographic region e.g. county, jurisdiction, bioregion, map sheet etc. Treatment descriptions for the record should include which geographic region, type and definition of that region which was used to define the centroid. For example: Records that a landholder considers sensitive from a privacy perspective. This method is generally not recommended because there are too many methodologies for calculating centroids – if it is to be used the method and exact polygon for calculating the centroid has to be provided."@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "coordinates replaced by a centroid"@en ;
+.
+
+<http://rs.gbif.org/vocabulary/dwc/rasd/treatment/generaliseAttributes>
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:altLabel "B"@en ;
+    skos:broader <http://rs.gbif.org/vocabulary/dwc/rasd/reason/rasdTreatment> ;
+    skos:definition "Restricted attributes are generalised to a higher level where these attributes could expose information about a restricted access species."@en ;
+    skos:inScheme cs: ;
+    skos:narrower
+        <http://rs.gbif.org/vocabulary/dwc/rasd/treatment/generaliseLocality> ,
+        <http://rs.gbif.org/vocabulary/dwc/rasd/treatment/generaliseTaxonLevel> ,
+        <http://rs.gbif.org/vocabulary/dwc/rasd/treatment/generalisedDateToDecade> ,
+        <http://rs.gbif.org/vocabulary/dwc/rasd/treatment/generalisedDateToMonth> ,
+        <http://rs.gbif.org/vocabulary/dwc/rasd/treatment/generalisedDateToYear> ;
+    skos:prefLabel "generalise attributes"@en ;
+.
+
+<http://rs.gbif.org/vocabulary/dwc/rasd/treatment/generaliseTaxonLevel>
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:altLabel "B.1"@en ;
+    skos:broader <http://rs.gbif.org/vocabulary/dwc/rasd/treatment/generaliseAttributes> ;
+    skos:definition "Generalise scientific name to higher taxonomic level"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "generalise taxon level"@en ;
+.
+
+<http://rs.gbif.org/vocabulary/dwc/rasd/treatment/generaliseLocality>
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:altLabel "B.2"@en ;
+    skos:broader <http://rs.gbif.org/vocabulary/dwc/rasd/treatment/generaliseAttributes> ;
+    skos:definition "Generalise locality to nearest named place or region name"@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "generalise locality"@en ;
+.
+
+<http://rs.gbif.org/vocabulary/dwc/rasd/treatment/generalisedDateToMonth>
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:altLabel "C.1"@en ;
+    skos:broader <http://rs.gbif.org/vocabulary/dwc/rasd/treatment/generaliseAttributes> ;
+    skos:definition "To avoid inferences being made about the locations of restricted plant species by using collections of common plants made around the same time by the same collector."@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "generalised date to month"@en ;
+.
+
+<http://rs.gbif.org/vocabulary/dwc/rasd/treatment/generalisedDateToYear>
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:altLabel "C.2"@en ;
+    skos:broader <http://rs.gbif.org/vocabulary/dwc/rasd/treatment/generaliseAttributes> ;
+    skos:definition "To avoid inferences being made around breeding / nesting times in particular areas for some taxa."@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "generalised date to year"@en ;
+.
+
+<http://rs.gbif.org/vocabulary/dwc/rasd/treatment/generalisedDateToDecade>
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:altLabel "C.3"@en ;
+    skos:broader <http://rs.gbif.org/vocabulary/dwc/rasd/treatment/generaliseAttributes> ;
+    skos:definition "For species like seals which do not have an annual breeding cycle where inferences can be made from the locality (eg. Species that come to shore to breed) and the period between breeding events."@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "generalised date to decade"@en ;
+.
+
+<http://rs.gbif.org/vocabulary/dwc/rasd/treatment/withholdRecords>
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:altLabel "D.1"@en ;
+    skos:broader <http://rs.gbif.org/vocabulary/dwc/rasd/treatment/withholdData> ;
+    skos:definition "Examples where records might be withheld include: Records of an endemic species that only occurs in a fragile habitat that is easily identifiable if coordinates are provided such as caves or bogs; Records of a severe international crop pest that were found at an airport and were eradicated, but public release of the records might confuse overseas observers into thinking the species is present in a country."@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "withhold records"@en ;
+.
+
+<http://rs.gbif.org/vocabulary/dwc/rasd/treatment/withholdAttributes>
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:altLabel "D.2"@en ;
+    skos:broader <http://rs.gbif.org/vocabulary/dwc/rasd/treatment/withholdData> ;
+    skos:definition "Some attributes of the record are withheld – these may be where the locality of the species is restricted, other information is restricted or allows the user to extrapolate the locality of a restricted access species e.g. habitat information, collectors name, personal information, site descriptions, survey information, information (time during annual cycle), breeding / life stage information."@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "withhold attributes"@en ;
+.
+
+<http://rs.gbif.org/vocabulary/dwc/rasd/treatment/embargoDataset>
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:altLabel "D.3"@en ;
+    skos:broader <http://rs.gbif.org/vocabulary/dwc/rasd/treatment/withholdData> ;
+    skos:definition "A researcher may want to withhold a dataset prior to publication of the results of their research."@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "embargo dataset"@en ;
+.
+
+<http://rs.gbif.org/vocabulary/dwc/rasd/treatment/embargoRecord>
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:altLabel "D.4"@en ;
+    skos:broader <http://rs.gbif.org/vocabulary/dwc/rasd/treatment/withholdData> ;
+    skos:definition "Where data contributors or observers impose an embargo period on selected records under agreement."@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "embargo record"@en ;
+.
+
+<http://rs.gbif.org/vocabulary/dwc/rasd/treatment/withholdData>
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:altLabel "D"@en ;
+    skos:broader <http://rs.gbif.org/vocabulary/dwc/rasd/reason/rasdTreatment> ;
+    skos:definition "Withhold information when generalising (obfuscating) is not sufficient to protect the species, personal integrity, survey integrity etc. as specified in the RASD reason category."@en ;
+    skos:inScheme cs: ;
+    skos:narrower
+        <http://rs.gbif.org/vocabulary/dwc/rasd/treatment/embargoAttributes> ,
+        <http://rs.gbif.org/vocabulary/dwc/rasd/treatment/embargoDataset> ,
+        <http://rs.gbif.org/vocabulary/dwc/rasd/treatment/embargoRecord> ,
+        <http://rs.gbif.org/vocabulary/dwc/rasd/treatment/withholdAttributes> ,
+        <http://rs.gbif.org/vocabulary/dwc/rasd/treatment/withholdDataset> ,
+        <http://rs.gbif.org/vocabulary/dwc/rasd/treatment/withholdRecords> ;
+    skos:prefLabel "withhold data"@en ;
+.
+
+<http://rs.gbif.org/vocabulary/dwc/rasd/treatment/embargoAttributes>
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:altLabel "D.5"@en ;
+    skos:broader <http://rs.gbif.org/vocabulary/dwc/rasd/treatment/withholdData> ;
+    skos:definition "Examples include: where a time period is sensitive where it allows the tracking of movement of taxa in near-real time e.g. pest species or other restricted access species; Where sites are used by a migratory species for feeding you may wish to temporarily embargo records each year during certain months to protect the species whilst it is visiting an area."@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "embargo attributes"@en ;
+.
+
+<http://rs.gbif.org/vocabulary/dwc/rasd/treatment/withholdDataset>
+    a skos:Concept ;
+    rdfs:isDefinedBy cs: ;
+    skos:altLabel "D.6"@en ;
+    skos:broader <http://rs.gbif.org/vocabulary/dwc/rasd/treatment/withholdData> ;
+    skos:definition "Examples where an entire dataset might be withheld include: A dataset of species from a defence training area where people trespassing in order to see a rare species run the risk of stepping on unexploded ordinance; a dataset from First Nations rangers that requires community permission to use; a PhD dataset on a rare tree only known from one site that is threatened by a fungal disease spread on soil carried by shoes or car tyres."@en ;
+    skos:inScheme cs: ;
+    skos:prefLabel "withhold dataset"@en ;
+.
+
