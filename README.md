@@ -65,7 +65,7 @@ https://github.com/user-attachments/assets/8ad12654-1765-4144-af05-1974d7046e8c
 
 # Meeting Minutes - September 2025
 
-[TDWG Sensitive Species Task Group - September 2025 Meeting Minutes](https://github.com/tdwg/sensitive-species-extension/blob/main/GR286%20TDWG%20Sensitive%20Species%20Group%2020250924%20(1).docx)
+[TDWG Sensitive Species Task Group - September 2025 Meeting Minutes](https://github.com/tdwg/sensitive-species-extension/blob/main/GR286%20TDWG%20Sensitive%20Species%20Group%2020250924%20(2).docx)
 
 [TDWG Sensitive Species Task Group - September 2025 Recording](https://drive.google.com/file/d/1G_mH8KVgPNfuCPE_rfGE5zZ_jN4ZEfWm/view?usp=drive_link)
 
