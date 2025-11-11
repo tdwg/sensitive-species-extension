@@ -78,6 +78,12 @@ https://github.com/user-attachments/assets/8ad12654-1765-4144-af05-1974d7046e8c
 
 [TDWG DWC DP Sub-Group - November 2025 - Outcomes / actions](https://github.com/tdwg/sensitive-species-extension/blob/main/TDWG%20-DWC%20Data%20Package%20Subgroup%20Meeting%20-%20Actions%205%20Nov%202025.docx)
 
+# Native DWC Sub-Group - November 2025
+[TDWG Native DWC Sub-group- November 2025 - recording](https://drive.google.com/file/d/16g615f24ifarD-srEmA9qrNehetLw2Xf/view?usp=sharing)
+
+[TDWG Native DWC Sub-Group - November 2025 - Outcomes / actions](https://github.com/tdwg/sensitive-species-extension/blob/main/TDWG%20-Native%20DWC%20Subgroup%20Meeting%20-%20Actions%2011%20Nov%202025.docx)
+
+
 # Sensitivity Reason and Treatment Vocabularies
 [Version 1 Dec 2024](https://github.com/tdwg/sensitive-species-extension/blob/main/SensitivityTreatmentsReasons_V1_Dec2024.docx)
 
