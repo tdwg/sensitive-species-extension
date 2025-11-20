@@ -22,6 +22,8 @@ Ryan, G. E., Nicholson, E., Baker, C. M., & McCarthy, M. A. (2024). The costs an
 
 Rubel, A., Kaehrle, M. & Streiffer, R. Digital Platforms, Privacy, and the Ethics of Wildlife Information Sharing. Philos. Technol. 38, 22 (2025). https://doi.org/10.1007/s13347-025-00841-4
 
+Astorga F, Rodrigues A & Waller J (2024) Sensitive species data generalization: Exploring risks, benefits and best practices. Copenhagen: GBIF Secretariat. https://doi.org/10.35035/doc-yr9g-nx02
+
 # Meeting Minutes - September 2024
 
 [TDWG_SensitiveDataTG_Sept2024.pptx](https://github.com/tdwg/sensitive-species-extension/blob/main/TDWG_SensitiveDataTG_Sept2024.pptx)
