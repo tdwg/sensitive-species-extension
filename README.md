@@ -106,6 +106,8 @@ https://github.com/user-attachments/assets/8ad12654-1765-4144-af05-1974d7046e8c
 # Data Model Versions
 [Draft DWC Data Package Model July 2025 - Events](https://github.com/tdwg/sensitive-species-extension/blob/main/SensitiveExtension_DWC_DP_Model.png)
 
+[Draft DWC Native Extension - v0.2 January 2026](https://github.com/tdwg/sensitive-species-extension/blob/main/Proposed%20RASD%20extension%20for%20traditional%20DWCA%20v0.2.docx)
+
 # Working List of Terms
 [https://github.com/tdwg/sensitive-species-extension/blob/main/sensitiveSppExt_terms.ods]
 
