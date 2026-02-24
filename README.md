@@ -101,6 +101,13 @@ https://github.com/user-attachments/assets/8ad12654-1765-4144-af05-1974d7046e8c
 
 [Revised Draft DWC Native Extension - v0.31 February 2026](https://github.com/tdwg/sensitive-species-extension/blob/main/Proposed%20RASD%20extension%20for%20traditional%20DWCA%20v0.31.docx)
 
+# DWC Data Pacakge Sub-Group - February 2026
+[TDWG DWC Data Package Sub-group- February 2026 - recording](https://drive.google.com/file/d/1W7C6hMY5SLVUnSzizV8lM8gC5Rqlg0uk/view?usp=drive_link)
+
+[TDWG DWC Data Package Sub-Group - February 2026 - Minutes]()
+
+[DWC Data Package - Schema Options - presentation](https://github.com/tdwg/sensitive-species-extension/blob/main/RASD%20DwC-DP%2020260223.pptx)
+
 # Sensitivity Reason and Treatment Vocabularies
 [Version 1 Dec 2024](https://github.com/tdwg/sensitive-species-extension/blob/main/SensitivityTreatmentsReasons_V1_Dec2024.docx)
 
@@ -118,6 +125,8 @@ https://github.com/user-attachments/assets/8ad12654-1765-4144-af05-1974d7046e8c
 [Draft DWC Native Extension - v0.2 January 2026](https://github.com/tdwg/sensitive-species-extension/blob/main/Proposed%20RASD%20extension%20for%20traditional%20DWCA%20v0.2.docx)
 
 [Revised Draft DWC Native Extension - v0.31 February 2026](https://github.com/tdwg/sensitive-species-extension/blob/main/Proposed%20RASD%20extension%20for%20traditional%20DWCA%20v0.31.docx)
+
+[DWC Data Package - Schema Options - presentation](https://github.com/tdwg/sensitive-species-extension/blob/main/RASD%20DwC-DP%2020260223.pptx)
 
 # Working List of Terms
 [https://github.com/tdwg/sensitive-species-extension/blob/main/sensitiveSppExt_terms.ods]
