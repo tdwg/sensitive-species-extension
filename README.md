@@ -104,7 +104,7 @@ https://github.com/user-attachments/assets/8ad12654-1765-4144-af05-1974d7046e8c
 # DWC Data Pacakge Sub-Group - February 2026
 [TDWG DWC Data Package Sub-group- February 2026 - recording](https://drive.google.com/file/d/1W7C6hMY5SLVUnSzizV8lM8gC5Rqlg0uk/view?usp=drive_link)
 
-[TDWG DWC Data Package Sub-Group - February 2026 - Minutes]()
+[TDWG DWC Data Package Sub-Group - February 2026 - Minutes](https://github.com/tdwg/sensitive-species-extension/blob/main/TDWG%20-%20RASD%20-%20DWC%20DP%20Subgroup%20Feb%202026%20Minutes.docx)
 
 [DWC Data Package - Schema Options - presentation](https://github.com/tdwg/sensitive-species-extension/blob/main/RASD%20DwC-DP%2020260223.pptx)
 
