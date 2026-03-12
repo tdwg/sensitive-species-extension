@@ -30,23 +30,23 @@ Astorga F, Rodrigues A & Waller J (2024) Sensitive species data generalization: 
 
 https://github.com/user-attachments/assets/8ad12654-1765-4144-af05-1974d7046e8c
 
-[TDWG Sensitive Species Task Group - September 2024 Meeting Minutes](https://github.com/tdwg/sensitive-species-extension/blob/main/Annual%20Reports/GR286.TDWG.Sensitive.Species.Task.Group.20240927.docx)
+[TDWG Sensitive Species Task Group - September 2024 Meeting Minutes](https://github.com/tdwg/sensitive-species-extension/blob/main/Meeting%20Minutes/GR286.TDWG.Sensitive.Species.Task.Group.20240927.docx)
 
 # Meeting Minutes - November 2024
 
-[TDWG Sensitive Species Task Group - November 2024 Meeting Minutes](https://github.com/tdwg/sensitive-species-extension/blob/main/Annual%20Reports/GR286%20TDWG%20Sensitive%20Species%20Task%20Group%2020241121.docx)
+[TDWG Sensitive Species Task Group - November 2024 Meeting Minutes](https://github.com/tdwg/sensitive-species-extension/blob/main/Meeting%20Minutes/GR286%20TDWG%20Sensitive%20Species%20Task%20Group%2020241121.docx)
 
 [TDWG Sensitive Species Task Group - November 2024 Recording](https://drive.google.com/file/d/1ovrr6FLJYIqa8803yQIE5eKzHuwCzYch/view?usp=sharing)
 
 # Meeting Minutes - December 2024
 
-[TDWG Sensitive Species Task Group - December 2024 Meeting Minutes](https://github.com/tdwg/sensitive-species-extension/blob/main/Annual%20Reports/GR286%20TDWG%20Sensitive%20Species%20Task%20Group%2020241219.docx)
+[TDWG Sensitive Species Task Group - December 2024 Meeting Minutes](https://github.com/tdwg/sensitive-species-extension/blob/main/Meeting%20Minutes/GR286%20TDWG%20Sensitive%20Species%20Task%20Group%2020241219.docx)
 
 [TDWG Sensitive Species Task Group - December 2024 Recording](https://drive.google.com/file/d/1mOeYJ0WsjISJLYJNVgKdqkI9UTfA6fjs/view?usp=drive_link)
 
 # Meeting Minutes - March 2025
 
-[TDWG Sensitive Species Task Group - March 2025 Meeting Minutes](https://github.com/tdwg/sensitive-species-extension/blob/main/Annual%20Reports/GR286%20TDWG%20Sensitive%20Species%20Group%2020240503.docx)
+[TDWG Sensitive Species Task Group - March 2025 Meeting Minutes](https://github.com/tdwg/sensitive-species-extension/blob/main/Meeting%20Minutes/GR286%20TDWG%20Sensitive%20Species%20Group%2020240503.docx)
 
 [TDWG Sensitive Species Task Group - March 2025 Recording](https://drive.google.com/file/d/1DXthZg53u-_fPSgBnfmVpebWwwGcH2tZ/view?usp=drive_link)
 
@@ -55,19 +55,19 @@ https://github.com/user-attachments/assets/8ad12654-1765-4144-af05-1974d7046e8c
 
 # Meeting Minutes - May 2025
 
-[TDWG Sensitive Species Task Group - May 2025 Meeting Minutes](https://github.com/tdwg/sensitive-species-extension/blob/main/Annual%20Reports/TDWG%20-%20Sensitive%20Species%20Extension%20TG%20May%202025%20Minutes.docx)
+[TDWG Sensitive Species Task Group - May 2025 Meeting Minutes](https://github.com/tdwg/sensitive-species-extension/blob/main/Meeting%20Minutes/TDWG%20-%20Sensitive%20Species%20Extension%20TG%20May%202025%20Minutes.docx)
 
 [TDWG Sensitive Species Task Group - May 2025 Recording](https://drive.google.com/file/d/1MQg-zZe36F0D6v4zcIQC7fbhisrKq2Lk/view?usp=drive_link)
 
 # Meeting Minutes - July 2025
 
-[TDWG Sensitive Species Task Group - July 2025 Meeting Minutes](https://github.com/tdwg/sensitive-species-extension/blob/main/Annual%20Reports/GR286%20TDWG%20Sensitive%20Species%20Task%20Group%2020250723.docx)
+[TDWG Sensitive Species Task Group - July 2025 Meeting Minutes](https://github.com/tdwg/sensitive-species-extension/blob/main/Meeting%20Minutes/GR286%20TDWG%20Sensitive%20Species%20Task%20Group%2020250723.docx)
 
 [TDWG Sensitive Species Task Group - July 2025 Recording](https://drive.google.com/file/d/1yEWPdetoYBpL-rTSnlkVeIb8y3qmGUF4/view?usp=drive_link)
 
 # Meeting Minutes - September 2025
 
-[TDWG Sensitive Species Task Group - September 2025 Meeting Minutes](https://github.com/tdwg/sensitive-species-extension/blob/main/Annual%20Reports/GR286%20TDWG%20Sensitive%20Species%20Group%2020250924%20(2).docx)
+[TDWG Sensitive Species Task Group - September 2025 Meeting Minutes](https://github.com/tdwg/sensitive-species-extension/blob/main/Meeting%20Minutes/GR286%20TDWG%20Sensitive%20Species%20Group%2020250924%20(2).docx)
 
 [TDWG Sensitive Species Task Group - September 2025 Recording](https://drive.google.com/file/d/1G_mH8KVgPNfuCPE_rfGE5zZ_jN4ZEfWm/view?usp=drive_link)
 
@@ -78,24 +78,24 @@ https://github.com/user-attachments/assets/8ad12654-1765-4144-af05-1974d7046e8c
 # DWC Data Package Sub-Group - November 2025
 [TDWG DWC DP Sub-group- November 2025 - recording](https://drive.google.com/file/d/10MqZo8LI3YKqJi0I_cvm6fKH2RecBRLi/view?usp=drive_link)
 
-[TDWG DWC DP Sub-Group - November 2025 - Outcomes / actions](https://github.com/tdwg/sensitive-species-extension/blob/main/Annual%20Reports/TDWG%20-DWC%20Data%20Package%20Subgroup%20Meeting%20-%20Actions%205%20Nov%202025.docx)
+[TDWG DWC DP Sub-Group - November 2025 - Outcomes / actions](https://github.com/tdwg/sensitive-species-extension/blob/main/Meeting%20Minutes/TDWG%20-DWC%20Data%20Package%20Subgroup%20Meeting%20-%20Actions%205%20Nov%202025.docx)
 
 # Native DWC Sub-Group - November 2025
 [TDWG Native DWC Sub-group- November 2025 - recording](https://drive.google.com/file/d/16g615f24ifarD-srEmA9qrNehetLw2Xf/view?usp=sharing)
 
-[TDWG Native DWC Sub-Group - November 2025 - Outcomes / actions](https://github.com/tdwg/sensitive-species-extension/blob/main/Annual%20Reports/TDWG%20-Native%20DWC%20Subgroup%20Meeting%20-%20Actions%2011%20Nov%202025.docx)
+[TDWG Native DWC Sub-Group - November 2025 - Outcomes / actions](https://github.com/tdwg/sensitive-species-extension/blob/main/Meeting%20Minutes/TDWG%20-Native%20DWC%20Subgroup%20Meeting%20-%20Actions%2011%20Nov%202025.docx)
 
 # Combined Sub-Groups - December 2025
 [TDWG Combined Sub-groups- December 2025 - recording](https://drive.google.com/file/d/10uqe7uVALGTeEVqpA5_9CESzReTDezWY/view?usp=drive_link)
 
-[TDWG Cobmined Sub-Groups - December 2025 - Minutes](https://github.com/tdwg/sensitive-species-extension/blob/main/Annual%20Reports/TDWG%20RASD%20Extension%20DWC%20Native%20and%20DP%20Subgroup%20Meeting%202%20(1).docx)
+[TDWG Cobmined Sub-Groups - December 2025 - Minutes](https://github.com/tdwg/sensitive-species-extension/blob/main/Meeting%20Minutes/TDWG%20RASD%20Extension%20DWC%20Native%20and%20DP%20Subgroup%20Meeting%202%20(1).docx)
 
 [Example Extension for DWC Native](https://github.com/tdwg/sensitive-species-extension/blob/main/Example%20file%20for%20treatments.xlsx)
 
 # Native DWC Sub-Group - January 2026
 [TDWG Native DWC Sub-group- January 2026 - recording](https://drive.google.com/file/d/1wH-SRWF2z9lqWqKOEyKnB5dRCUZfg8IQ/view?usp=drive_link)
 
-[TDWG Native DWC Sub-Group - January 2026 - Minutes](https://github.com/tdwg/sensitive-species-extension/blob/main/Annual%20Reports/TDWG%20-%20RASD%20-%20DWC%20Native%20Subgroup%20Jan2026%20Minutes.docx)
+[TDWG Native DWC Sub-Group - January 2026 - Minutes](https://github.com/tdwg/sensitive-species-extension/blob/main/Meeting%20Minutes/TDWG%20-%20RASD%20-%20DWC%20Native%20Subgroup%20Jan2026%20Minutes.docx)
 
 [Draft DWC Native Extension - v0.2 January 2026](https://github.com/tdwg/sensitive-species-extension/blob/main/Proposed%20RASD%20extension%20for%20traditional%20DWCA%20v0.2.docx)
 
@@ -104,7 +104,7 @@ https://github.com/user-attachments/assets/8ad12654-1765-4144-af05-1974d7046e8c
 # DWC Data Pacakge Sub-Group - February 2026
 [TDWG DWC Data Package Sub-group- February 2026 - recording](https://drive.google.com/file/d/1W7C6hMY5SLVUnSzizV8lM8gC5Rqlg0uk/view?usp=drive_link)
 
-[TDWG DWC Data Package Sub-Group - February 2026 - Minutes](https://github.com/tdwg/sensitive-species-extension/blob/main/Annual%20Reports/TDWG%20-%20RASD%20-%20DWC%20DP%20Subgroup%20Feb%202026%20Minutes.docx)
+[TDWG DWC Data Package Sub-Group - February 2026 - Minutes](https://github.com/tdwg/sensitive-species-extension/blob/main/Meeting%20Minutes/TDWG%20-%20RASD%20-%20DWC%20DP%20Subgroup%20Feb%202026%20Minutes.docx)
 
 [DWC Data Package - Schema Options - presentation](https://github.com/tdwg/sensitive-species-extension/blob/main/RASD%20DwC-DP%2020260223.pptx)
 
@@ -134,6 +134,6 @@ https://github.com/user-attachments/assets/8ad12654-1765-4144-af05-1974d7046e8c
 # Annual Reports to TDWG Executive 
 [Annual Report November 2024](https://docs.google.com/document/d/1phC7H3ObB1om01FnbLnhiqiwn8JMGfpVsNSpJ3u8TVE/edit?usp=sharing)
 
-[Annual Report November 2025](https://github.com/tdwg/sensitive-species-extension/blob/main/Annual%Reports/Sensitive%20Species%20Extension%20Task%20Group%20Annual%20Report%202025.docx)
+[Annual Report November 2025](https://github.com/tdwg/sensitive-species-extension/blob/main/Annual%20Reports/Sensitive%20Species%20Extension%20Task%20Group%20Annual%20Report%202025.docx)
 
 
