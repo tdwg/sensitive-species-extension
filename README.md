@@ -26,7 +26,7 @@ Astorga F, Rodrigues A & Waller J (2024) Sensitive species data generalization: 
 
 # Meeting Minutes - September 2024
 
-[TDWG_SensitiveDataTG_Sept2024.pptx](https://github.com/tdwg/sensitive-species-extension/blob/main/TDWG_SensitiveDataTG_Sept2024.pptx)
+[TDWG_SensitiveDataTG_Sept2024.pptx](https://github.com/tdwg/sensitive-species-extension/blob/main/Meeting%20Minutes/TDWG_SensitiveDataTG_Sept2024.pptx)
 
 https://github.com/user-attachments/assets/8ad12654-1765-4144-af05-1974d7046e8c
 
