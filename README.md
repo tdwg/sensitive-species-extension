@@ -71,7 +71,7 @@ https://github.com/user-attachments/assets/8ad12654-1765-4144-af05-1974d7046e8c
 
 [TDWG Sensitive Species Task Group - September 2025 Recording](https://drive.google.com/file/d/1G_mH8KVgPNfuCPE_rfGE5zZ_jN4ZEfWm/view?usp=drive_link)
 
-[Mapping Vocabs to DwC / DwC-DP Presentation](https://github.com/tdwg/sensitive-species-extension/blob/main/RASD%2020250924.pptx)
+[Mapping Vocabs to DwC / DwC-DP Presentation](https://github.com/tdwg/sensitive-species-extension/blob/main/Meeting%20Minutes/RASD%2020250924.pptx)
 
 [Draft RASD Vocab](https://github.com/tdwg/sensitive-species-extension/blob/main/Vocabularies/RASD_vocabulary_v0.1.ttl)
 
