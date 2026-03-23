@@ -73,40 +73,40 @@ https://github.com/user-attachments/assets/8ad12654-1765-4144-af05-1974d7046e8c
 
 [Mapping Vocabs to DwC / DwC-DP Presentation](https://github.com/tdwg/sensitive-species-extension/blob/main/RASD%2020250924.pptx)
 
-[Draft RASD Vocab](https://github.com/tdwg/sensitive-species-extension/blob/main/RASD_vocabulary_v0.1.ttl)
+[Draft RASD Vocab](https://github.com/tdwg/sensitive-species-extension/blob/main/Vocabularies/RASD_vocabulary_v0.1.ttl)
 
 # DWC Data Package Sub-Group - November 2025
 [TDWG DWC DP Sub-group- November 2025 - recording](https://drive.google.com/file/d/10MqZo8LI3YKqJi0I_cvm6fKH2RecBRLi/view?usp=drive_link)
 
-[TDWG DWC DP Sub-Group - November 2025 - Outcomes / actions](https://github.com/tdwg/sensitive-species-extension/blob/main/Meeting%20Minutes/TDWG%20-DWC%20Data%20Package%20Subgroup%20Meeting%20-%20Actions%205%20Nov%202025.docx)
+[TDWG DWC DP Sub-Group - November 2025 - Outcomes / actions](https://github.com/tdwg/sensitive-species-extension/blob/main/Meeting%20Minutes/SubGroups/TDWG%20-DWC%20Data%20Package%20Subgroup%20Meeting%20-%20Actions%205%20Nov%202025.docx)
 
 # Native DWC Sub-Group - November 2025
 [TDWG Native DWC Sub-group- November 2025 - recording](https://drive.google.com/file/d/16g615f24ifarD-srEmA9qrNehetLw2Xf/view?usp=sharing)
 
-[TDWG Native DWC Sub-Group - November 2025 - Outcomes / actions](https://github.com/tdwg/sensitive-species-extension/blob/main/Meeting%20Minutes/TDWG%20-Native%20DWC%20Subgroup%20Meeting%20-%20Actions%2011%20Nov%202025.docx)
+[TDWG Native DWC Sub-Group - November 2025 - Outcomes / actions](https://github.com/tdwg/sensitive-species-extension/blob/main/Meeting%20Minutes/SubGroups/TDWG%20-Native%20DWC%20Subgroup%20Meeting%20-%20Actions%2011%20Nov%202025.docx)
 
 # Combined Sub-Groups - December 2025
 [TDWG Combined Sub-groups- December 2025 - recording](https://drive.google.com/file/d/10uqe7uVALGTeEVqpA5_9CESzReTDezWY/view?usp=drive_link)
 
-[TDWG Cobmined Sub-Groups - December 2025 - Minutes](https://github.com/tdwg/sensitive-species-extension/blob/main/Meeting%20Minutes/TDWG%20RASD%20Extension%20DWC%20Native%20and%20DP%20Subgroup%20Meeting%202%20(1).docx)
+[TDWG Cobmined Sub-Groups - December 2025 - Minutes](https://github.com/tdwg/sensitive-species-extension/blob/main/Meeting%20Minutes/SubGroups/TDWG%20-Combined%20Subgroup%20Meeting%20-%20Actions%2017%20December%202025.docx)
 
-[Example Extension for DWC Native](https://github.com/tdwg/sensitive-species-extension/blob/main/Example%20file%20for%20treatments.xlsx)
+[Example Extension for DWC Native](https://github.com/tdwg/sensitive-species-extension/blob/main/Data%20Models/Example%20file%20for%20treatments.xlsx)
 
 # Native DWC Sub-Group - January 2026
 [TDWG Native DWC Sub-group- January 2026 - recording](https://drive.google.com/file/d/1wH-SRWF2z9lqWqKOEyKnB5dRCUZfg8IQ/view?usp=drive_link)
 
-[TDWG Native DWC Sub-Group - January 2026 - Minutes](https://github.com/tdwg/sensitive-species-extension/blob/main/Meeting%20Minutes/TDWG%20-%20RASD%20-%20DWC%20Native%20Subgroup%20Jan2026%20Minutes.docx)
+[TDWG Native DWC Sub-Group - January 2026 - Minutes](https://github.com/tdwg/sensitive-species-extension/blob/main/Meeting%20Minutes/SubGroups/TDWG%20-%20RASD%20-%20DWC%20Native%20Subgroup%20Jan2026%20Minutes.docx)
 
-[Draft DWC Native Extension - v0.2 January 2026](https://github.com/tdwg/sensitive-species-extension/blob/main/Proposed%20RASD%20extension%20for%20traditional%20DWCA%20v0.2.docx)
+[Draft DWC Native Extension - v0.2 January 2026](https://github.com/tdwg/sensitive-species-extension/blob/main/Data%20Models/Proposed%20RASD%20extension%20for%20traditional%20DWCA%20v0.2.docx)
 
-[Revised Draft DWC Native Extension - v0.31 February 2026](https://github.com/tdwg/sensitive-species-extension/blob/main/Proposed%20RASD%20extension%20for%20traditional%20DWCA%20v0.31.docx)
+[Revised Draft DWC Native Extension - v0.31 February 2026](https://github.com/tdwg/sensitive-species-extension/blob/main/Data%20Models/Proposed%20RASD%20extension%20for%20traditional%20DWCA%20v0.31.docx)
 
 # DWC Data Pacakge Sub-Group - February 2026
 [TDWG DWC Data Package Sub-group- February 2026 - recording](https://drive.google.com/file/d/1W7C6hMY5SLVUnSzizV8lM8gC5Rqlg0uk/view?usp=drive_link)
 
-[TDWG DWC Data Package Sub-Group - February 2026 - Minutes](https://github.com/tdwg/sensitive-species-extension/blob/main/Meeting%20Minutes/TDWG%20-%20RASD%20-%20DWC%20DP%20Subgroup%20Feb%202026%20Minutes.docx)
+[TDWG DWC Data Package Sub-Group - February 2026 - Minutes](https://github.com/tdwg/sensitive-species-extension/blob/main/Meeting%20Minutes/SubGroups/TDWG%20-%20RASD%20-%20DWC%20DP%20Subgroup%20Feb%202026%20Minutes.docx)
 
-[DWC Data Package - Schema Options - presentation](https://github.com/tdwg/sensitive-species-extension/blob/main/RASD%20DwC-DP%2020260223.pptx)
+[DWC Data Package - Schema Options - presentation](https://github.com/tdwg/sensitive-species-extension/blob/main/Data%20Models/RASD%20DwC-DP%2020260223.pptx)
 
 # Sensitivity Reason and Treatment Vocabularies
 [Version 1 Dec 2024](https://github.com/tdwg/sensitive-species-extension/blob/main/Vocabularies/SensitivityTreatmentsReasons_V1_Dec2024.docx)
@@ -120,13 +120,13 @@ https://github.com/user-attachments/assets/8ad12654-1765-4144-af05-1974d7046e8c
 [Version 6 July 2025 (incorporating feedback from Task Group)](https://github.com/tdwg/sensitive-species-extension/blob/main/Vocabularies/SensitivityReasonsTreatments_V6_July2025.docx)
 
 # Data Model Versions
-[Draft DWC Data Package Model July 2025 - Events](https://github.com/tdwg/sensitive-species-extension/blob/main/Data%Models/SensitiveExtension_DWC_DP_Model.png)
+[Draft DWC Data Package Model July 2025 - Events](https://github.com/tdwg/sensitive-species-extension/blob/main/Data%20Models/SensitiveExtension_DWC_DP_Model.png)
 
-[Draft DWC Native Extension - v0.2 January 2026](https://github.com/tdwg/sensitive-species-extension/blob/main/Data%Models/Proposed%20RASD%20extension%20for%20traditional%20DWCA%20v0.2.docx)
+[Draft DWC Native Extension - v0.2 January 2026](https://github.com/tdwg/sensitive-species-extension/blob/main/Data%20Models/Proposed%20RASD%20extension%20for%20traditional%20DWCA%20v0.2.docx)
 
-[Revised Draft DWC Native Extension - v0.31 February 2026](https://github.com/tdwg/sensitive-species-extension/blob/main/Data%Models/Proposed%20RASD%20extension%20for%20traditional%20DWCA%20v0.31.docx)
+[Revised Draft DWC Native Extension - v0.31 February 2026](https://github.com/tdwg/sensitive-species-extension/blob/main/Data%20Models/Proposed%20RASD%20extension%20for%20traditional%20DWCA%20v0.31.docx)
 
-[DWC Data Package - Schema Options - presentation](https://github.com/tdwg/sensitive-species-extension/blob/main/Data%Models/RASD%20DwC-DP%2020260223.pptx)
+[DWC Data Package - Schema Options - presentation](https://github.com/tdwg/sensitive-species-extension/blob/main/Data%20Models/RASD%20DwC-DP%2020260223.pptx)
 
 # Working List of Terms
 [https://github.com/tdwg/sensitive-species-extension/blob/main/sensitiveSppExt_terms.ods]
