@@ -63,37 +63,39 @@ https://github.com/user-attachments/assets/8ad12654-1765-4144-af05-1974d7046e8c
 
 [TDWG Sensitive Species Task Group - July 2025 Meeting Minutes](https://github.com/tdwg/sensitive-species-extension/blob/main/Meeting%20Minutes/GR286%20TDWG%20Sensitive%20Species%20Task%20Group%2020250723.docx)
 
-[TDWG Sensitive Species Task Group - July 2025 Recording](https://drive.google.com/file/d/1yEWPdetoYBpL-rTSnlkVeIb8y3qmGUF4/view?usp=drive_link)
+[TDWG Sensitive Species Task Group - July 2025 Recording](https://youtu.be/WkIO7Xa0n54)
 
 # Meeting Minutes - September 2025
 
 [TDWG Sensitive Species Task Group - September 2025 Meeting Minutes](https://github.com/tdwg/sensitive-species-extension/blob/main/Meeting%20Minutes/GR286%20TDWG%20Sensitive%20Species%20Group%2020250924.docx)
 
-[TDWG Sensitive Species Task Group - September 2025 Recording](https://drive.google.com/file/d/1G_mH8KVgPNfuCPE_rfGE5zZ_jN4ZEfWm/view?usp=drive_link)
+[TDWG Sensitive Species Task Group - September 2025 Recording](https://youtu.be/EAgBbwozB4U)
 
 [Mapping Vocabs to DwC / DwC-DP Presentation](https://github.com/tdwg/sensitive-species-extension/blob/main/Meeting%20Minutes/RASD%2020250924.pptx)
 
 [Draft RASD Vocab](https://github.com/tdwg/sensitive-species-extension/blob/main/Vocabularies/RASD_vocabulary_v0.1.ttl)
 
 # DWC Data Package Sub-Group - November 2025
-[TDWG DWC DP Sub-group- November 2025 - recording](https://drive.google.com/file/d/10MqZo8LI3YKqJi0I_cvm6fKH2RecBRLi/view?usp=drive_link)
+[TDWG DWC DP Sub-group- November 2025 - recording](https://youtu.be/HzNdDbr9OPs)
 
 [TDWG DWC DP Sub-Group - November 2025 - Outcomes / actions](https://github.com/tdwg/sensitive-species-extension/blob/main/Meeting%20Minutes/SubGroups/TDWG%20-DWC%20Data%20Package%20Subgroup%20Meeting%20-%20Actions%205%20Nov%202025.docx)
 
 # Native DWC Sub-Group - November 2025
-[TDWG Native DWC Sub-group- November 2025 - recording](https://drive.google.com/file/d/16g615f24ifarD-srEmA9qrNehetLw2Xf/view?usp=sharing)
+[TDWG Native DWC Sub-group- November 2025 - recording](https://youtu.be/mTrvyiBgKVk)
 
 [TDWG Native DWC Sub-Group - November 2025 - Outcomes / actions](https://github.com/tdwg/sensitive-species-extension/blob/main/Meeting%20Minutes/SubGroups/TDWG%20-Native%20DWC%20Subgroup%20Meeting%20-%20Actions%2011%20Nov%202025.docx)
 
 # Combined Sub-Groups - December 2025
-[TDWG Combined Sub-groups- December 2025 - recording](https://drive.google.com/file/d/10uqe7uVALGTeEVqpA5_9CESzReTDezWY/view?usp=drive_link)
+[TDWG Combined Sub-groups- December 2025 - recording](https://youtu.be/9bM8V4XFl8w)
 
 [TDWG Cobmined Sub-Groups - December 2025 - Minutes](https://github.com/tdwg/sensitive-species-extension/blob/main/Meeting%20Minutes/SubGroups/TDWG%20-Combined%20Subgroup%20Meeting%20-%20Actions%2017%20December%202025.docx)
 
 [Example Extension for DWC Native](https://github.com/tdwg/sensitive-species-extension/blob/main/Data%20Models/Example%20file%20for%20treatments.xlsx)
 
 # Native DWC Sub-Group - January 2026
-[TDWG Native DWC Sub-group- January 2026 - recording](https://drive.google.com/file/d/1wH-SRWF2z9lqWqKOEyKnB5dRCUZfg8IQ/view?usp=drive_link)
+[TDWG Native DWC Sub-group- January 2026 - Part 1 recording](https://youtu.be/neoRfLYoAZ0)
+
+[TDWG Native DWC Sub-group- January 2026 - Part 2 recording](https://youtu.be/kl3KiEGlPEA)
 
 [TDWG Native DWC Sub-Group - January 2026 - Minutes](https://github.com/tdwg/sensitive-species-extension/blob/main/Meeting%20Minutes/SubGroups/TDWG%20-%20RASD%20-%20DWC%20Native%20Subgroup%20Jan2026%20Minutes.docx)
 
@@ -102,7 +104,7 @@ https://github.com/user-attachments/assets/8ad12654-1765-4144-af05-1974d7046e8c
 [Revised Draft DWC Native Extension - v0.31 February 2026](https://github.com/tdwg/sensitive-species-extension/blob/main/Data%20Models/Proposed%20RASD%20extension%20for%20traditional%20DWCA%20v0.31.docx)
 
 # DWC Data Pacakge Sub-Group - February 2026
-[TDWG DWC Data Package Sub-group- February 2026 - recording](https://drive.google.com/file/d/1W7C6hMY5SLVUnSzizV8lM8gC5Rqlg0uk/view?usp=drive_link)
+[TDWG DWC Data Package Sub-group- February 2026 - recording](https://youtu.be/pp-jMh5EtIE)
 
 [TDWG DWC Data Package Sub-Group - February 2026 - Minutes](https://github.com/tdwg/sensitive-species-extension/blob/main/Meeting%20Minutes/SubGroups/TDWG%20-%20RASD%20-%20DWC%20DP%20Subgroup%20Feb%202026%20Minutes.docx)
 
