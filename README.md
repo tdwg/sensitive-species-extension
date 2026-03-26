@@ -117,7 +117,7 @@ Astorga F, Rodrigues A & Waller J (2024) Sensitive species data generalization: 
 
 # Meeting Minutes - March 2026
 
-[TDWG Sensitive Species Task Group - March 2026 Meeting Minutes]()
+[TDWG Sensitive Species Task Group - March 2026 Meeting Minutes](https://github.com/tdwg/sensitive-species-extension/blob/main/Meeting%20Minutes/GR286%20TDWG%20Sensitive%20Species%20Task%20Group%2020260323.docx)
 
 [TDWG Sensitive Species Task Group - March 2026 Recording](https://youtu.be/9j39d9gSZnk)
 
