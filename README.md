@@ -28,7 +28,7 @@ Astorga F, Rodrigues A & Waller J (2024) Sensitive species data generalization: 
 
 [TDWG_SensitiveDataTG_Sept2024.pptx](https://github.com/tdwg/sensitive-species-extension/blob/main/Meeting%20Minutes/TDWG_SensitiveDataTG_Sept2024.pptx)
 
-https://github.com/user-attachments/assets/8ad12654-1765-4144-af05-1974d7046e8c
+[TDWG Sensitive Species Task Group - September 2024 - Meeting Recording](https://youtu.be/XHzXi7fWdKM)
 
 [TDWG Sensitive Species Task Group - September 2024 Meeting Minutes](https://github.com/tdwg/sensitive-species-extension/blob/main/Meeting%20Minutes/GR286.TDWG.Sensitive.Species.Task.Group.20240927.docx)
 
@@ -48,7 +48,7 @@ https://github.com/user-attachments/assets/8ad12654-1765-4144-af05-1974d7046e8c
 
 [TDWG Sensitive Species Task Group - March 2025 Meeting Minutes](https://github.com/tdwg/sensitive-species-extension/blob/main/Meeting%20Minutes/GR286%20TDWG%20Sensitive%20Species%20Group%2020240503.docx)
 
-[TDWG Sensitive Species Task Group - March 2025 Recording](https://drive.google.com/file/d/1DXthZg53u-_fPSgBnfmVpebWwwGcH2tZ/view?usp=drive_link)
+[TDWG Sensitive Species Task Group - March 2025 Recording](https://youtu.be/LXLQNgZWUCI)
 
 # TDWG Working Sessions - April 2025
 [Sensitive Species Data Extension Task Group Recording](https://www.youtube.com/watch?v=uXYNYjGfMLI)
@@ -57,7 +57,7 @@ https://github.com/user-attachments/assets/8ad12654-1765-4144-af05-1974d7046e8c
 
 [TDWG Sensitive Species Task Group - May 2025 Meeting Minutes](https://github.com/tdwg/sensitive-species-extension/blob/main/Meeting%20Minutes/TDWG%20-%20Sensitive%20Species%20Extension%20TG%20May%202025%20Minutes.docx)
 
-[TDWG Sensitive Species Task Group - May 2025 Recording](https://drive.google.com/file/d/1MQg-zZe36F0D6v4zcIQC7fbhisrKq2Lk/view?usp=drive_link)
+[TDWG Sensitive Species Task Group - May 2025 Recording](https://youtu.be/xdDK0bTRX7c)
 
 # Meeting Minutes - July 2025
 
@@ -114,6 +114,12 @@ https://github.com/user-attachments/assets/8ad12654-1765-4144-af05-1974d7046e8c
 [TDWG DWC Data Package Sub-Group - February 2026 - Minutes](https://github.com/tdwg/sensitive-species-extension/blob/main/Meeting%20Minutes/SubGroups/TDWG%20-%20RASD%20-%20DWC%20DP%20Subgroup%20Feb%202026%20Minutes.docx)
 
 [DWC Data Package - Schema Options - presentation](https://github.com/tdwg/sensitive-species-extension/blob/main/Data%20Models/RASD%20DwC-DP%2020260223.pptx)
+
+# Meeting Minutes - March 2026
+
+[TDWG Sensitive Species Task Group - March 2026 Meeting Minutes]()
+
+[TDWG Sensitive Species Task Group - March 2026 Recording](https://youtu.be/9j39d9gSZnk)
 
 # Sensitivity Reason and Treatment Vocabularies
 [Version 1 Dec 2024](https://github.com/tdwg/sensitive-species-extension/blob/main/Vocabularies/SensitivityTreatmentsReasons_V1_Dec2024.docx)
