@@ -50,6 +50,8 @@ Astorga F, Rodrigues A & Waller J (2024) Sensitive species data generalization: 
 
 [TDWG Sensitive Species Task Group - March 2025 Recording](https://youtu.be/LXLQNgZWUCI)
 
+[Use Cases](https://github.com/tdwg/sensitive-species-extension/blob/main/Meeting%20Minutes/UseCases_March2025.docx)
+
 # TDWG Working Sessions - April 2025
 [Sensitive Species Data Extension Task Group Recording](https://www.youtube.com/watch?v=uXYNYjGfMLI)
 
@@ -140,6 +142,9 @@ Astorga F, Rodrigues A & Waller J (2024) Sensitive species data generalization: 
 [Revised Draft DWC Native Extension - v0.31 February 2026](https://github.com/tdwg/sensitive-species-extension/blob/main/Data%20Models/Proposed%20RASD%20extension%20for%20traditional%20DWCA%20v0.31.docx)
 
 [DWC Data Package - Schema Options - presentation](https://github.com/tdwg/sensitive-species-extension/blob/main/Data%20Models/RASD%20DwC-DP%2020260223.pptx)
+
+# RASD Use Cases
+[Restricted Access Species Data Use Cases - March 2025](https://github.com/tdwg/sensitive-species-extension/blob/main/Meeting%20Minutes/UseCases_March2025.docx)
 
 # Working List of Terms
 [https://github.com/tdwg/sensitive-species-extension/blob/main/sensitiveSppExt_terms.ods]
