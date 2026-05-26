@@ -137,6 +137,8 @@ Astorga F, Rodrigues A & Waller J (2024) Sensitive species data generalization: 
 
 [Sensitive Species (RASD) Task Group - West](https://youtu.be/-4g2InjyuD0?si=QraNou5lFlCH2e3v)
 
+[Sensitive Species Working Session 2026](https://github.com/tdwg/sensitive-species-extension/blob/main/Meeting%20Minutes/Sensitive%20Species%20Working%20Session%202026.pptx)
+
 
 # Sensitivity Reason and Treatment Vocabularies
 [Version 1 Dec 2024](https://github.com/tdwg/sensitive-species-extension/blob/main/Vocabularies/SensitivityTreatmentsReasons_V1_Dec2024.docx)
