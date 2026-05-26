@@ -1,0 +1,242 @@
+{
+  "identifier": "http://rs.tdwg.org/dwc/dwc-dp/treatment",
+  "url": "table-schemas/treatment.json",
+  "name": "treatment",
+  "title": "Treatment",
+  "description": "A dwc:Treatment applied to a data field to restrict access to compenents of the data that may be sensitive according to a dcterms:Agent.",
+  "comments": "",
+  "examples": "",
+  "namespace": "dwc",
+  "dcterms:isVersionOf": "http://rs.tdwg.org/dwc/terms/Treatment",
+  "dcterms:references": "http://rs.tdwg.org/dwc/terms/version/Treatment-2026-05-13",
+  "rdfs:comment": "DRAFT v0.2",
+  "fields": [
+    {
+      "name": "treatmentID",
+      "title": "Treatment ID",
+      "description": "An identifier for a dwc:Treatment.",
+      "comments": "Recommended best practice is to use a globally unique identifier.",
+      "examples": "",
+      "type": "string",
+      "format": "default",
+      "namespace": "dwc",
+      "dcterms:isVersionOf": "http://example.com/term-pending/dwc/treatmentID",
+      "dcterms:references": "",
+      "rdfs:comment": "",
+      "constraints": {
+        "required": true,
+        "unique": true
+      }
+    },
+        {
+      "name": "treatmentField",
+      "title": "Treatment Field",
+      "description": "The specific data field that has been altered to protect sensitive information.",
+      "comments": "",
+      "examples": "`dwc:decimalLatitude`; `dwc:decimalLongitude`; `dwc:locality`; `dwc:eventDate`; `dwc:reproductiveCondition`; `dwc:recordedBy`",
+      "type": "string",
+      "format": "default",
+      "namespace": "dwc",
+      "dcterms:isVersionOf": "http://example.com/term-pending/dwc/treatmentField",
+      "dcterms:references": "",
+      "rdfs:comment": ""
+    },
+    {
+      "name": "verbatimTreatmentReason",
+      "title": "Verbatim Treatment Reason",
+      "description": "A string representing the reason for the application of a dwc:Treatment as it appeared in the original record.",
+      "comments": "This term is meant to allow the capture of an unaltered original name for a dwc:treatmentReason. This term is meant to be used in addition to dwc:treatmentReason, not instead of it.",
+      "examples": "`sacred site`; `threatened species location`",
+      "type": "string",
+      "format": "default",
+      "namespace": "dwc",
+      "dcterms:isVersionOf": "http://example.com/term-pending/dwc/verbatimTreatmentReason",
+      "dcterms:references": "",
+      "rdfs:comment": ""
+    },
+    {
+      "name": "treatmentReason",
+      "title": "Treatment Reason",
+      "description": "A category that best matches the reason for the dwc:Treatment.",
+      "comments": "Recommended best practice is to use controlled value strings from the controlled vocabulary designated for use with this term, listed at <http://rs.gbif.org/vocabulary/dwc/rasd/reason/rasdReason>. This term has an equivalent in the dwciri: namespace that allows only an IRI as a value, whereas this term allows for any string literal value.",
+      "examples": "`biosecurity`; `species location`; `species attributes`; `First Nations cultural significance`",
+      "type": "string",
+      "format": "default",
+      "namespace": "dwc",
+      "dcterms:isVersionOf": "http://example.com/term-pending/dwc/treatmentType",
+      "dcterms:references": "",
+      "rdfs:comment": ""
+    },
+    {
+      "name": "treatmentReasonIRI",
+      "title": "Treatment Type (IRI)",
+      "description": "An IRI of a controlled vocabulary value for the reason for the dwc:Treatment.",
+      "comments": "Recommended best practice is to use controlled value strings from the controlled vocabulary designated for use with this term, listed at <http://rs.gbif.org/vocabulary/dwc/rasd/reason/rasdReason>.",
+      "examples": "",
+      "type": "string",
+      "format": "default",
+      "namespace": "dwciri",
+      "dcterms:isVersionOf": "http://example.com/term-pending/dwciri/treatmentReasonIRI",
+      "dcterms:references": "",
+      "rdfs:comment": ""
+    },
+    {
+      "name": "treatmentReasonSource",
+      "title": "Treatment Reason Source",
+      "description": "A reference to the controlled vocabulary in which the definition of a value in dwc:treatmentReason is given.",
+      "comments": "",
+      "examples": "",
+      "type": "string",
+      "format": "default",
+      "namespace": "dc",
+      "dcterms:isVersionOf": "http://purl.org/dc/elements/1.1/source",
+      "dcterms:references": "",
+      "rdfs:comment": "A related resource from which the described resource is derived."
+    },
+    {
+      "name": "treatmentType",
+      "title": "Treatment Type",
+      "description": "A category that best matches the nature of a dwc:Treatment.",
+      "comments": "Recommended best practice is to use controlled value strings from the controlled vocabulary designated for use with this term, listed at <http://rs.gbif.org/vocabulary/dwc/rasd/reason/rasdTreatment>. This term has an equivalent in the dwciri: namespace that allows only an IRI as a value, whereas this term allows for any string literal value.",
+      "examples": "`obfuscate coordinates`; `coordinates truncated`; `generalise attributes`; `withhold records`",
+      "type": "string",
+      "format": "default",
+      "namespace": "dwc",
+      "dcterms:isVersionOf": "http://example.com/term-pending/dwc/treatmentType",
+      "dcterms:references": "",
+      "rdfs:comment": ""
+    },
+    {
+      "name": "verbatimTreatmentType",
+      "title": "Verbatim Treatment Type",
+      "description": "A string representing the type of dwc:Treatment as it appeared in the original record.",
+      "comments": "This term is meant to allow the capture of an unaltered original name for a dwc:treatmentType. This term is meant to be used in addition to dwc:treatmentType, not instead of it.",
+      "examples": "`obfuscation`; `withheld`",
+      "type": "string",
+      "format": "default",
+      "namespace": "dwc",
+      "dcterms:isVersionOf": "http://example.com/term-pending/dwc/verbatimTreatmentType",
+      "dcterms:references": "",
+      "rdfs:comment": ""
+    },
+    {
+      "name": "treatmentTypeIRI",
+      "title": "Treatment Type (IRI)",
+      "description": "An IRI of a controlled vocabulary value for a type of dwc:Treatment.",
+      "comments": "Recommended best practice is to use controlled value strings from the controlled vocabulary designated for use with this term, listed at <http://rs.gbif.org/vocabulary/dwc/rasd/reason/rasdTreatment>.",
+      "examples": "",
+      "type": "string",
+      "format": "default",
+      "namespace": "dwciri",
+      "dcterms:isVersionOf": "http://example.com/term-pending/dwciri/treatmentTypeIRI",
+      "dcterms:references": "",
+      "rdfs:comment": ""
+    },
+    {
+      "name": "treatmentTypeSource",
+      "title": "Treatment Type Source",
+      "description": "A reference to the controlled vocabulary in which the definition of a value in dwc:treatmentType is given.",
+      "comments": "",
+      "examples": "http://example.com/term-pending/dwc/Treatments",
+      "type": "string",
+      "format": "default",
+      "namespace": "dc",
+      "dcterms:isVersionOf": "http://purl.org/dc/elements/1.1/source",
+      "dcterms:references": "",
+      "rdfs:comment": "A related resource from which the described resource is derived."
+    },
+    {
+      "name": "treatmentDescription",
+      "title": "Treatment Description",
+      "description": "Text description of the method applied to the data in making a dwc:Treatment.",
+      "comments": "",
+      "examples": "Truncated to 2 decimal places",
+      "type": "string",
+      "format": "default",
+      "namespace": "dwc",
+      "dcterms:isVersionOf": "http://example.com/term-pending/dwc/treatmentDescription",
+      "dcterms:references": "",
+      "rdfs:comment": ""
+    },
+    {
+      "name": "treatmentStartDate",
+      "title": "Treatment Start Date",
+      "description": "A date on which a dwc:Treatment was deemed to first be in effect.",
+      "comments": "Recommended best practice is to use a date that conforms to ISO 8601-1:2019.",
+      "examples": "`1963-03-08T14:07-06:00` (8 Mar 1963 at or after 2:07pm and before 2:08pm in the time zone six hours earlier than UTC); `2009-02-20T08:40Z` (20 February 2009 at or after 8:40am and before 8:41 UTC); `2018-08-29T15:19` (29 August 2018 at or after 3:19pm and before 3:20pm local time); `1809-02-12` (within the day 12 February 1809); `1906-06` (in the month of June 1906); `1971` (in the year 1971); `2007-03-01T13:00:00Z/2008-05-11T15:30:00Z` (some time within the interval beginning 1 March 2007 at 1pm UTC and before 11 May 2008 at 3:30pm UTC); `1900/1909` (some time within the interval between the beginning of the year 1900 and before the year 1909); `2007-11-13/15` (some time in the interval between the beginning of 13 November 2007 and before 15 November 2007)",
+      "type": "string",
+      "format": "default",
+      "namespace": "dwc",
+      "dcterms:isVersionOf": "http://example.com/term-pending/dwc/treatmentStartDate",
+      "dcterms:references": "",
+      "rdfs:comment": ""
+    },
+    {
+      "name": "treatmentEndDate",
+      "title": "Treatment End Date",
+      "description": "A date on which a dwc:Treatment will cease/ceased to be in effect.",
+      "comments": "Recommended best practice is to use a date that conforms to ISO 8601-1:2019.",
+      "examples": "`1963-03-08T14:07-06:00` (8 Mar 1963 at or after 2:07pm and before 2:08pm in the time zone six hours earlier than UTC); `2009-02-20T08:40Z` (20 February 2009 at or after 8:40am and before 8:41 UTC); `2018-08-29T15:19` (29 August 2018 at or after 3:19pm and before 3:20pm local time); `1809-02-12` (within the day 12 February 1809); `1906-06` (in the month of June 1906); `1971` (in the year 1971); `2007-03-01T13:00:00Z/2008-05-11T15:30:00Z` (some time within the interval beginning 1 March 2007 at 1pm UTC and before 11 May 2008 at 3:30pm UTC); `1900/1909` (some time within the interval between the beginning of the year 1900 and before the year 1909); `2007-11-13/15` (some time in the interval between the beginning of 13 November 2007 and before 15 November 2007)",
+      "type": "string",
+      "format": "default",
+      "namespace": "dwc",
+      "dcterms:isVersionOf": "http://example.com/term-pending/dwc/treatmentEndDate",
+      "dcterms:references": "",
+      "rdfs:comment": ""
+    },
+    {
+      "name": "treatmentOrganization",
+      "title": "Treatment Organization",
+      "description": "A list (concatenated and separated) of names of dcterms:Agents responsible for making a dwc:Treatment.",
+      "comments": "Recommended best practice is to separate the values in a list with space vertical bar space (` | `).",
+      "examples": "",
+      "type": "string",
+      "format": "default",
+      "namespace": "dwc",
+      "dcterms:isVersionOf": "http://example.com/term-pending/dwc/treatmentOrganziation",
+      "dcterms:references": "",
+      "rdfs:comment": ""
+    },
+    {
+      "name": "treatmentOrganizationID",
+      "title": "Treatment Organization ID",
+      "description": "An identifier for a dcterms:Agent responsible for making a dwc:Treatment.",
+      "comments": "Recommended best practice is to use a globally unique identifier.",
+      "examples": "",
+      "type": "string",
+      "format": "default",
+      "namespace": "dwciri",
+      "dcterms:isVersionOf": "http://example.com/term-pending/dwciri/treatmentOrganizationID",
+      "dcterms:references": "",
+      "rdfs:comment": "",
+      "constraints": {
+        "required": false,
+        "unique": false
+      }
+    },
+    {
+      "name": "treatmentInEffect",
+      "title": "Treatment In Effect",
+      "description": "Boolean indicator for if the dwc:Treatment is the primary restriction currently in effect on the dwc:treatmentField.",
+      "comments": "Some restrictions override less severe restrictions, therefore rendering some current restrictions invisible.",
+      "examples": "`True`; `False`",
+      "type": "boolean",
+      "format": "default",
+      "namespace": "dwc",
+      "dcterms:isVersionOf": "http://example.com/term-pending/dwc/treatmentInEffect",
+      "dcterms:references": "",
+      "rdfs:comment": ""
+    }
+  ],
+  "primaryKey": "treatmentID",
+  "foreignKeys": [
+    {
+      "fields": "treatmentOrganizationID",
+      "predicate": "applied by",
+      "reference": {
+        "resource": "agent",
+        "fields": "agentID"
+      }
+    }
+  ]
+}
