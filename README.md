@@ -151,6 +151,8 @@ Astorga F, Rodrigues A & Waller J (2024) Sensitive species data generalization: 
 
 [Version 6 July 2025 (incorporating feedback from Task Group)](https://github.com/tdwg/sensitive-species-extension/blob/main/Vocabularies/SensitivityReasonsTreatments_V6_July2025.docx)
 
+[SKOS Vocab - May 2026](https://github.com/tdwg/sensitive-species-extension/blob/main/Vocabularies/RASD_vocabulary_v0.3.ttl)
+
 # Data Model Versions
 [Draft DWC Data Package Model July 2025 - Events](https://github.com/tdwg/sensitive-species-extension/blob/main/Data%20Models/SensitiveExtension_DWC_DP_Model.png)
 
@@ -159,6 +161,12 @@ Astorga F, Rodrigues A & Waller J (2024) Sensitive species data generalization: 
 [Revised Draft DWC Native Extension - v0.31 February 2026](https://github.com/tdwg/sensitive-species-extension/blob/main/Data%20Models/Proposed%20RASD%20extension%20for%20traditional%20DWCA%20v0.31.docx)
 
 [DWC Data Package - Schema Options - presentation](https://github.com/tdwg/sensitive-species-extension/blob/main/Data%20Models/RASD%20DwC-DP%2020260223.pptx)
+
+[Example Occurrence Treatement Join Schema - May 2026](https://github.com/tdwg/sensitive-species-extension/blob/main/Vocabularies/example_occurrence_treatment_join_schema_draft_20260220.json)
+
+[Draft Treatment Schema - May 2026](https://github.com/tdwg/sensitive-species-extension/blob/main/Vocabularies/treatment_schema_draft_v0.2_20260513.json)
+
+[Example - application of Reasons and Treatments - May 2026](https://github.com/tdwg/sensitive-species-extension/blob/main/Vocabularies/RASD%20Treatments%20for%20workshop%20v2.xlsx)
 
 # RASD Use Cases
 [Restricted Access Species Data Use Cases - March 2025](https://github.com/tdwg/sensitive-species-extension/blob/main/Meeting%20Minutes/UseCases_March2025.docx)
