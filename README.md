@@ -139,6 +139,13 @@ Astorga F, Rodrigues A & Waller J (2024) Sensitive species data generalization: 
 
 [Sensitive Species Working Session 2026](https://github.com/tdwg/sensitive-species-extension/blob/main/Meeting%20Minutes/Sensitive%20Species%20Working%20Session%202026.pptx)
 
+# RASD Use Cases Workshop - TDWG 2026 - September 2026
+
+[Oslo Workshop - Part 1](https://youtu.be/GC-1iB_yShA?si=y0RJhra5uVzdARJs)
+
+[Oslo Workshop - Part 2](https://youtu.be/gdQAsu9XdcA?si=6XCNVgYEIuwAsZNR)
+
+[Oslo Workshop - Part 3](https://youtu.be/qe1JLcA85_4?si=1Cy6zrXFTrVkmUHq)
 
 # Sensitivity Reason and Treatment Vocabularies
 [Version 1 Dec 2024](https://github.com/tdwg/sensitive-species-extension/blob/main/Vocabularies/SensitivityTreatmentsReasons_V1_Dec2024.docx)
